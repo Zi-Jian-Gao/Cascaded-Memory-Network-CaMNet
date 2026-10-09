@@ -1,0 +1,12 @@
+vqa_path: 'datasets/vqa'
+task_list:
+  - name: vqa_Color
+    config: 'configs/task_config/vqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/vqa/train_q_color.json' , 'datasets/vqa/val_q_color.json' ,'datasets/vqa/test_q_color.json' ]
+
+order: fixed
+pretrained: 'xxx/checkpoint/model_base.pth'
+LM_path: 'xxx/checkpoint/Qwen2.5-3B-Instruct/'
+
+

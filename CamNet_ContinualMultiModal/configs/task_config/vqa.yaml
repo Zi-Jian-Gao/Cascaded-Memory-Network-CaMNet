@@ -1,0 +1,16 @@
+vqa_root: 'xxx/data/coco/'
+dataset: 'vqa'
+
+vit: 'base'
+batch_size_train: [64,32,32,32,32,32,32,32,32,32]
+batch_size_test: 128
+vit_grad_ckpt: False
+vit_ckpt_layer: 0
+max_epoch: 12
+
+image_size: 480
+inference: 'generate'
+
+weight_decay: 0.05
+init_lr: 0.00125
+min_lr: 0

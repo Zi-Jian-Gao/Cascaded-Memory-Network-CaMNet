@@ -1,0 +1,35 @@
+vl_checklist_path: 'datasets/svlc'
+task_list:
+  - name: State
+    config: 'configs/task_config/svlc.yaml'
+    trainer: 'train_nlvr'
+    json_files: [ 'datasets/svlc/Attribute/**/state.json' ]
+  - name: Action
+    config: 'configs/task_config/svlc.yaml'
+    trainer: 'train_nlvr'
+    json_files: [ 'datasets/svlc/Attribute/**/action.json' ]
+  - name: Size
+    config: 'configs/task_config/svlc.yaml'
+    trainer: 'train_nlvr'
+    json_files: [ 'datasets/svlc/Attribute/**/size.json' ]
+  - name: Spatial
+    config: 'configs/task_config/svlc.yaml'
+    trainer: 'train_nlvr'
+    json_files: [ 'datasets/svlc/Relation/**/spatial.json' ]
+  - name: Material
+    config: 'configs/task_config/svlc.yaml'
+    trainer: 'train_nlvr'
+    json_files: [ 'datasets/svlc/Attribute/**/material.json' ]
+  - name: Relation_Action
+    config: 'configs/task_config/svlc.yaml'
+    trainer: 'train_nlvr'
+    json_files: [ 'datasets/svlc/Relation/**/action.json' ]
+  - name: Color
+    config: 'configs/task_config/svlc.yaml'
+    trainer: 'train_nlvr'
+    json_files: ['datasets/svlc/Attribute/**/color.json']
+
+order: fixed
+pretrained: 'xxx/checkpoint/model_base.pth'
+LM_path: 'xxx/checkpoint/Qwen2.5-3B-Instruct/'
+

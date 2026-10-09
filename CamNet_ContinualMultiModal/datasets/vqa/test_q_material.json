@@ -1,0 +1,4002 @@
+[
+    {
+        "question_id": 262162009,
+        "question": "What is the chair made of?",
+        "answer": [
+            "leather",
+            "leather",
+            "plastic",
+            "plastic vinyl metal",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000262162.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 262440002,
+        "question": "What are the floors made out of?",
+        "answer": [
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000262440.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 1626000,
+        "question": "What material is most dominant in texture in this picture?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "plants",
+            "wood",
+            "cotton",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000001626.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 263828006,
+        "question": "What material is the seat of the bike made out of?",
+        "answer": [
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "hard fabric",
+            "leather"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000263828.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 527464001,
+        "question": "What is the darker wall made of?",
+        "answer": [
+            "brick",
+            "brick",
+            "wood",
+            "brick",
+            "brick",
+            "brick",
+            "brick and wood",
+            "brick",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000527464.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 527631009,
+        "question": "What is this made of?",
+        "answer": [
+            "roast beef",
+            "roast beef cheese bread and french fries",
+            "bread meat and potatoes",
+            "beef potatoes wheat",
+            "bread and meat",
+            "meat bread potatoes",
+            "steak cheese",
+            "bread beef cheese",
+            "steak onion bread and potato",
+            "bread and meat"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000527631.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 134555000,
+        "question": "What is the elephants tusks made out of?",
+        "answer": [
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000134555.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 266082000,
+        "question": "What are the windows made of?",
+        "answer": [
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000266082.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 266712001,
+        "question": "What is the stop sign made of?",
+        "answer": [
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000266712.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 126766012,
+        "question": "What is the fence made out of?",
+        "answer": [
+            "metal",
+            "metal",
+            "wood",
+            "wood",
+            "chain link",
+            "wire and wood",
+            "metal",
+            "metal",
+            "metal",
+            "wood and wire"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000126766.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 6415000,
+        "question": "What is the cutting board made of?",
+        "answer": [
+            "plastic",
+            "plastic",
+            "wood",
+            "plastic",
+            "wood",
+            "plastic",
+            "plastic",
+            "plastic",
+            "ceramic",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000006415.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 137967001,
+        "question": "What is the wall made of?",
+        "answer": [
+            "metal",
+            "wood",
+            "wood",
+            "cardboard",
+            "board",
+            "drywall",
+            "cubicle",
+            "fabric",
+            "fabric and metal",
+            "foam"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000137967.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 7795000,
+        "question": "What material is the couch made from?",
+        "answer": [
+            "none",
+            "cotton",
+            "cotton",
+            "no couch",
+            "cotton",
+            "none",
+            "no coach",
+            "cotton",
+            "leather",
+            "none"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000007795.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 532295004,
+        "question": "What material is the building on the left made of?",
+        "answer": [
+            "tin",
+            "wood",
+            "wood",
+            "metal",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000532295.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 140076002,
+        "question": "What material are the chairs?",
+        "answer": [
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "vinyl",
+            "leather"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000140076.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 110765001,
+        "question": "What is the design made out of?",
+        "answer": [
+            "tape",
+            "tape",
+            "tape",
+            "paint",
+            "tape",
+            "tape",
+            "tape",
+            "tape",
+            "paint",
+            "tape"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000110765.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 534733005,
+        "question": "What is made of wood?",
+        "answer": [
+            "floor",
+            "fireplace",
+            "table",
+            "floor",
+            "flooring",
+            "table",
+            "table",
+            "floor",
+            "table",
+            "table"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000534733.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 535313002,
+        "question": "What is the spoon made of?",
+        "answer": [
+            "metal",
+            "metal",
+            "metal",
+            "silverware",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "steel",
+            "silver"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000535313.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 504293004,
+        "question": "What is this chair made of?",
+        "answer": [
+            "plastic",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000504293.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 11181001,
+        "question": "What is the sidewalk made out of?",
+        "answer": [
+            "brick",
+            "tile",
+            "concrete",
+            "cement",
+            "bricks",
+            "brick",
+            "stone",
+            "brick",
+            "concrete",
+            "cement"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000011181.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 404461000,
+        "question": "What is the sidewalk made of?",
+        "answer": [
+            "concrete",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "cobblestone",
+            "brick",
+            "stone",
+            "cobblestone",
+            "bricks"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000404461.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 142891000,
+        "question": "What material is the hat made out of?",
+        "answer": [
+            "leather",
+            "no hat",
+            "no hat",
+            "no hat",
+            "none",
+            "fur",
+            "leather",
+            "wool",
+            "fur",
+            "polyester"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000142891.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 12085005,
+        "question": "What is the wall made of?",
+        "answer": [
+            "drywall",
+            "sheetrock",
+            "sheetrock",
+            "wood",
+            "cement",
+            "sheetrock",
+            "drywall",
+            "wood",
+            "wood",
+            "drywall"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000012085.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 143167000,
+        "question": "What is the building made out of?",
+        "answer": [
+            "concrete",
+            "stucco",
+            "stucco",
+            "plaster",
+            "stucco",
+            "wood",
+            "beige",
+            "brick",
+            "cement",
+            "cement"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000143167.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 12204000,
+        "question": "What is the fence made of?",
+        "answer": [
+            "steel",
+            "wire",
+            "metal",
+            "metal",
+            "aluminum",
+            "metal",
+            "wire",
+            "wire",
+            "metal",
+            "chain link"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000012204.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 275202003,
+        "question": "What is the pizza made of?",
+        "answer": [
+            "spinach and cheese",
+            "cheese & green peppers",
+            "dough",
+            "spinach cheese and sauce",
+            "bread cheese tomato sauce basil",
+            "dough",
+            "basil and cheese",
+            "dough",
+            "tomatoes cheese basil",
+            "dough cheese sauce and spinach"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000275202.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 275611009,
+        "question": "What material is the plate made of?",
+        "answer": [
+            "metal",
+            "glass",
+            "metal",
+            "aluminum",
+            "aluminum",
+            "metal",
+            "aluminum",
+            "ceramic",
+            "aluminum",
+            "aluminum"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000275611.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 133515001,
+        "question": "What material are the appliances made out of?",
+        "answer": [
+            "stainless steel",
+            "stainless steel",
+            "stainless steel",
+            "stainless steel",
+            "stainless steel",
+            "metal",
+            "stainless steel",
+            "steel",
+            "steal",
+            "stainless steel"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000133515.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 133515008,
+        "question": "What material is the counter made of?",
+        "answer": [
+            "marble",
+            "granite",
+            "marble",
+            "granite",
+            "granite",
+            "granite",
+            "granite",
+            "wood",
+            "granite",
+            "marble"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000133515.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 15345005,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood",
+            "metal",
+            "metal",
+            "plastic",
+            "wood",
+            "marble",
+            "medal",
+            "metal",
+            "metal",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000015345.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 146767007,
+        "question": "What is the bowl made of?",
+        "answer": [
+            "metal",
+            "metal",
+            "stainless steel",
+            "metal",
+            "stainless steel",
+            "metal",
+            "metal",
+            "metal",
+            "steel",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000146767.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 199403002,
+        "question": "What is the bottom of the skirt made of?",
+        "answer": [
+            "lace",
+            "red",
+            "ruffles",
+            "fabric",
+            "satin",
+            "red cotton",
+            "cotton",
+            "ruffles",
+            "cloth",
+            "cotton"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000199403.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 283012002,
+        "question": "What are the curtains made out of?",
+        "answer": [
+            "cotton",
+            "cotton",
+            "cloth",
+            "fabric",
+            "fabric",
+            "fabric",
+            "sheets",
+            "cloth",
+            "no curtains",
+            "fabric"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000283012.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 152398001,
+        "question": "What is the base of the lamps made of?",
+        "answer": [
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "plastic",
+            "glass",
+            "glass"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000152398.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 152398004,
+        "question": "What is the headboard made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "door"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000152398.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 545867003,
+        "question": "What material is covering the animal's pen?",
+        "answer": [
+            "straw",
+            "hay",
+            "hay",
+            "straw",
+            "hay",
+            "hay",
+            "hay",
+            "hay",
+            "hay",
+            "hay"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000545867.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 415432001,
+        "question": "What is the picture made of?",
+        "answer": [
+            "water paint",
+            "paper",
+            "paint",
+            "color",
+            "waves",
+            "watercolor",
+            "man holding remote",
+            "people",
+            "waves",
+            "film"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000415432.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 548423003,
+        "question": "What material is the door frame made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000548423.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 419860003,
+        "question": "What material is the tabletop?",
+        "answer": [
+            "tile",
+            "tiles",
+            "tile",
+            "plastic",
+            "mosaic stone",
+            "pizza",
+            "tiles",
+            "tile",
+            "tile",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000419860.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 28655001,
+        "question": "What is the clock tower made of?",
+        "answer": [
+            "metal",
+            "metal",
+            "metal",
+            "glass",
+            "metal",
+            "metal",
+            "wood",
+            "metal and glass",
+            "pole and metal",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000028655.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 423141005,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000423141.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 423618001,
+        "question": "What is the cutting board made out of?",
+        "answer": [
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "cutter",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000423618.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 293022002,
+        "question": "What is the fence made out of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000293022.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 31636011,
+        "question": "What material is the table top made from?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "grainy wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000031636.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 258588002,
+        "question": "What is the fence made of?",
+        "answer": [
+            "steel",
+            "metal",
+            "metal",
+            "metal",
+            "iron",
+            "metal",
+            "steel",
+            "metal",
+            "metal",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000258588.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 33904001,
+        "question": "What is the chair made out of?",
+        "answer": [
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "brown",
+            "leather"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000033904.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 427338001,
+        "question": "What is the walkway made out of?",
+        "answer": [
+            "cement",
+            "stone",
+            "stones",
+            "dirt",
+            "stone",
+            "dirt",
+            "stone pavers",
+            "stone",
+            "stone",
+            "stone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000427338.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 427338002,
+        "question": "What are these buildings made of?",
+        "answer": [
+            "stone",
+            "stone",
+            "stone",
+            "stone",
+            "cobblestone",
+            "stone",
+            "stone",
+            "rocks",
+            "stone",
+            "rock"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000427338.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 429174010,
+        "question": "What is the tower made of?",
+        "answer": [
+            "concrete",
+            "stucco",
+            "concrete",
+            "brick",
+            "concrete",
+            "brick",
+            "cement",
+            "block",
+            "brick",
+            "stone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000429174.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 167235002,
+        "question": "What is this made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "straw and wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000167235.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 298722002,
+        "question": "What is the primary material that these seats are made from?",
+        "answer": [
+            "metal",
+            "wood",
+            "steel",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "metal",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000298722.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 561403004,
+        "question": "What material is the door frame made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "metal",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000561403.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 430469009,
+        "question": "What is the bowl made of?",
+        "answer": [
+            "ceramic",
+            "ceramic",
+            "ceramic",
+            "ceramic",
+            "glass",
+            "ceramic",
+            "ceramic",
+            "glass",
+            "glass",
+            "porcelain"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000430469.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 300034003,
+        "question": "What is the door made out of?",
+        "answer": [
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "glass"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000300034.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 431521000,
+        "question": "What is this fence made out of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "metal",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood posts",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000431521.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 431521002,
+        "question": "What is the fence made out of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000431521.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 300471001,
+        "question": "What material is the chair cushion made of?",
+        "answer": [
+            "yarn",
+            "not sure",
+            "roap",
+            "yarn",
+            "rope",
+            "fiber",
+            "rope",
+            "wicker",
+            "yarn",
+            "hemp"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000300471.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 302030000,
+        "question": "What is the frame material made of?",
+        "answer": [
+            "metal",
+            "wood",
+            "wood",
+            "wood",
+            "metal",
+            "wood",
+            "drywall",
+            "plastic",
+            "wood",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000302030.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 433625001,
+        "question": "What are the fixtures made of?",
+        "answer": [
+            "silver",
+            "ceramic",
+            "metal",
+            "chrome",
+            "porcelain",
+            "porcelain",
+            "metal",
+            "metal",
+            "metal",
+            "porcelain"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000433625.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 304147002,
+        "question": "What is the fence made of?",
+        "answer": [
+            "wood and metal mesh",
+            "wire",
+            "wood and wire",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000304147.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 436467000,
+        "question": "What is the spoon made out of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000436467.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 567787000,
+        "question": "What is the floor made out of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "hardwood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000567787.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 175024002,
+        "question": "What is the man's outfit made of?",
+        "answer": [
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "medal",
+            "leather",
+            "leather",
+            "leather",
+            "leather",
+            "leather"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000175024.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 437599002,
+        "question": "What is this made out of?",
+        "answer": [
+            "silver",
+            "silver",
+            "silver",
+            "metal",
+            "silver",
+            "silver",
+            "silver",
+            "silver",
+            "silver",
+            "silver"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000437599.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 44910015,
+        "question": "What is the boat made of?",
+        "answer": [
+            "wood",
+            "metal",
+            "wood",
+            "fiberglass",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "fiberglass"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000044910.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 307523021,
+        "question": "What substance is the building made of?",
+        "answer": [
+            "concrete",
+            "brick",
+            "brick",
+            "stones",
+            "concrete",
+            "concrete",
+            "concrete",
+            "concrete",
+            "concrete",
+            "cement"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000307523.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 46571002,
+        "question": "What is the wall made of?",
+        "answer": [
+            "brick",
+            "brick",
+            "hollow block",
+            "cement bricks",
+            "concrete",
+            "brick",
+            "cement block",
+            "bricks",
+            "brick",
+            "concrete"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000046571.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 571804006,
+        "question": "What are these objects made of?",
+        "answer": [
+            "porcelain",
+            "porcelain",
+            "ceramic",
+            "ceramic",
+            "ceramic",
+            "porcelain",
+            "porcelain",
+            "porcelain",
+            "porcelain",
+            "porcelain"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000571804.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 48905001,
+        "question": "What is the counter made of?",
+        "answer": [
+            "granite",
+            "marble",
+            "granite",
+            "marble",
+            "granite",
+            "granite",
+            "granite",
+            "marble",
+            "marble",
+            "granite"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000048905.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 95786000,
+        "question": "What do the pieces appear to be made of?",
+        "answer": [
+            "clay",
+            "clay",
+            "ceramic",
+            "clay",
+            "clay",
+            "clay",
+            "clay",
+            "ceramic",
+            "clay",
+            "ceramic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000095786.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 50443002,
+        "question": "What material is used to cover the toilet?",
+        "answer": [
+            "wood",
+            "plywood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000050443.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 181574006,
+        "question": "What material is the tabletop?",
+        "answer": [
+            "vinyl",
+            "cotton",
+            "plastic",
+            "wood",
+            "plates pizza and serving utensil",
+            "cloth",
+            "cloth",
+            "yes",
+            "tablecloth",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000181574.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 313063002,
+        "question": "What is the floor made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "hardwood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000313063.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 182162001,
+        "question": "What is made of food?",
+        "answer": [
+            "nothing",
+            "nothing",
+            "nothing",
+            "fruit",
+            "cake",
+            "dog bone",
+            "cake",
+            "bear",
+            "nothing",
+            "plant"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000182162.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 314370010,
+        "question": "What material is the backsplash made of?",
+        "answer": [
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tile"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000314370.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 314388003,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000314388.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 161697001,
+        "question": "What is the surface the donut bag is sitting on, made of?",
+        "answer": [
+            "flesh",
+            "plastic bag",
+            "plastic",
+            "plastic",
+            "plastic",
+            "hand",
+            "plastic",
+            "plastic",
+            "sugar",
+            "can't see"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000161697.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 314865003,
+        "question": "What is the floor made out of?",
+        "answer": [
+            "concrete",
+            "wood",
+            "carpet",
+            "concrete",
+            "carpet",
+            "concrete",
+            "cement",
+            "wood",
+            "carpet",
+            "concrete"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000314865.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 314914003,
+        "question": "What is the building made of?",
+        "answer": [
+            "stone",
+            "stone",
+            "bricks",
+            "brick",
+            "cement",
+            "stones",
+            "bricks",
+            "concrete",
+            "concrete",
+            "concrete"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000314914.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 185789005,
+        "question": "What is the building made of?",
+        "answer": [
+            "glass metal and concrete",
+            "metal",
+            "glass",
+            "glass",
+            "glass",
+            "glass and metal",
+            "glass",
+            "windows",
+            "glass and steel",
+            "concrete glass and metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000185789.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 317725002,
+        "question": "What colors are these sprinkles made of?",
+        "answer": [
+            "white pink yellow and red",
+            "rainbow",
+            "sugar",
+            "pink yellow purple blue white",
+            "red green yellow blue white",
+            "pastel colors",
+            "rainbow",
+            "pastels",
+            "pink white green purple blue",
+            "multicolored"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000317725.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 448897002,
+        "question": "What is the pizza plate made of?",
+        "answer": [
+            "crust cheese tomatoes",
+            "ceramic",
+            "ceramic",
+            "plastic",
+            "ceramic",
+            "ceramics",
+            "paper",
+            "ceramic",
+            "paper",
+            "tomato basil"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000448897.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 449675032,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "marble",
+            "marble",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000449675.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 58232003,
+        "question": "What is the ceiling made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "straw",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000058232.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 320425001,
+        "question": "What is the fence made of in back?",
+        "answer": [
+            "brick",
+            "stone",
+            "wood",
+            "brick",
+            "stone",
+            "stone",
+            "brick",
+            "rock",
+            "stones",
+            "stone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000320425.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 452084001,
+        "question": "What is the fork made of?",
+        "answer": [
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000452084.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 59383002,
+        "question": "What are the cupboards made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000059383.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 452784001,
+        "question": "What is the bowl made of?",
+        "answer": [
+            "ceramic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "spinach",
+            "plastic",
+            "plastic",
+            "ceramic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000452784.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 453302007,
+        "question": "What is the refrigerator made of?",
+        "answer": [
+            "metal",
+            "plastic and metal",
+            "vinyl",
+            "metal",
+            "metal",
+            "plastic and metal",
+            "plastic",
+            "metal",
+            "plastic",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000453302.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 60177007,
+        "question": "What material makes up the building?",
+        "answer": [
+            "paint",
+            "plastic",
+            "wood",
+            "wood siding",
+            "wood",
+            "metal",
+            "aluminum",
+            "vinyl",
+            "metal",
+            "aluminum siding"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000060177.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 193449002,
+        "question": "What is the headboard made of?",
+        "answer": [
+            "metal",
+            "metal bars",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "brass"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000193449.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 193494000,
+        "question": "What is the ceiling made of?",
+        "answer": [
+            "plastic",
+            "plastic",
+            "paper",
+            "plastic",
+            "linoleum",
+            "newspaper",
+            "plastic",
+            "material",
+            "plastic",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000193494.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 195113002,
+        "question": "What material is the bowl?",
+        "answer": [
+            "metal",
+            "metal",
+            "plastic",
+            "apples",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000195113.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 195648002,
+        "question": "What is the bench made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood and metal",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000195648.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 328452000,
+        "question": "What is the cabinet made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "toiletries",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000328452.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 66879000,
+        "question": "What is the toilet seat made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "yes",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000066879.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 67122001,
+        "question": "What material is the floor?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000067122.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 461130008,
+        "question": "What is the top of the umbrella made of?",
+        "answer": [
+            "red and yellow canvas",
+            "fabric",
+            "metal",
+            "fabric",
+            "plastic",
+            "fabric",
+            "cloth",
+            "plastic",
+            "cloth",
+            "fabric"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000461130.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 461278001,
+        "question": "What is the bench made of?",
+        "answer": [
+            "wood",
+            "plastic",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000461278.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 330750002,
+        "question": "What is the building made of?",
+        "answer": [
+            "stone",
+            "stone",
+            "brick",
+            "stones",
+            "stone",
+            "stone",
+            "stones",
+            "stones",
+            "stone",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000330750.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 200739003,
+        "question": "What is the road made of?",
+        "answer": [
+            "stone",
+            "cobblestone",
+            "cobblestone",
+            "bricks",
+            "bricks",
+            "brick",
+            "brick",
+            "bricks",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000200739.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 464286001,
+        "question": "What types of food are made from these animals?",
+        "answer": [
+            "beef",
+            "hamburgers",
+            "dairy",
+            "beef",
+            "milk and cheese",
+            "beef",
+            "milk",
+            "beef",
+            "dairy products",
+            "beef"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000464286.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 558064001,
+        "question": "What is the sculpture made of?",
+        "answer": [
+            "stone",
+            "pewter",
+            "metal",
+            "brass",
+            "metal",
+            "iron",
+            "brass",
+            "metal",
+            "clay",
+            "bronze"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000558064.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 75600003,
+        "question": "What is the roof behind the bus made of?",
+        "answer": [
+            "tile",
+            "tile",
+            "shingles",
+            "tile",
+            "asphalt shingles",
+            "shingles",
+            "clay",
+            "unsure",
+            "shingles",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000075600.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 469002002,
+        "question": "What is the material separating the donuts?",
+        "answer": [
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "paper"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000469002.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 79686011,
+        "question": "What is the wall made out of?",
+        "answer": [
+            "brick",
+            "brick",
+            "brick",
+            "bricks",
+            "brick",
+            "brick",
+            "bricks",
+            "brick",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000079686.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 473728005,
+        "question": "What material is the wall made of?",
+        "answer": [
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000473728.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 343706000,
+        "question": "What material was used to make the phone case?",
+        "answer": [
+            "fabric",
+            "wool",
+            "yarn",
+            "yarn",
+            "yarn",
+            "knit",
+            "yarn",
+            "yarn",
+            "cotton",
+            "wool"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000343706.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 343914000,
+        "question": "What is the floor made out of?",
+        "answer": [
+            "wood",
+            "wood",
+            "hardwood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000343914.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 475053002,
+        "question": "What fabric is the tie made from?",
+        "answer": [
+            "cotton",
+            "silk",
+            "silk",
+            "silk",
+            "silk",
+            "polyester",
+            "nylon",
+            "silk",
+            "silk",
+            "polyester"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000475053.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 81897000,
+        "question": "What is the bench made of?",
+        "answer": [
+            "dirt",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000081897.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 214046004,
+        "question": "What is made of wood?",
+        "answer": [
+            "cupboards",
+            "cabinets",
+            "cabinets",
+            "cabinets",
+            "cabinets",
+            "cabinets",
+            "cabinets",
+            "cabinets",
+            "inning",
+            "cabinet"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000214046.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 214224016,
+        "question": "What is the wall made of?",
+        "answer": [
+            "drywall",
+            "wood",
+            "concrete",
+            "plaster",
+            "sheetrock",
+            "drywall",
+            "wood",
+            "sheetrock",
+            "plaster",
+            "drywall"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000214224.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 214527040,
+        "question": "What is the material used in this image?",
+        "answer": [
+            "glass",
+            "glass",
+            "glass",
+            "glass and metal",
+            "iron glass",
+            "metal & class",
+            "glass",
+            "metal",
+            "steel",
+            "steel"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000214527.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 478155000,
+        "question": "What material is the fork made out of?",
+        "answer": [
+            "metal",
+            "metal",
+            "steel",
+            "silver",
+            "metal",
+            "silver",
+            "plastic",
+            "plastic",
+            "metal",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000478155.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 347172002,
+        "question": "What is the house made of?",
+        "answer": [
+            "brick",
+            "brick",
+            "brick",
+            "bricks",
+            "bricks",
+            "bricks",
+            "brick",
+            "brick",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000347172.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 347666005,
+        "question": "What can be made from this animal's fur?",
+        "answer": [
+            "hairbrush",
+            "wool",
+            "nothing",
+            "rug",
+            "shoes",
+            "blanket",
+            "brushes",
+            "jacket",
+            "mitten",
+            "nothing"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000347666.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 478766004,
+        "question": "What is made from metal?",
+        "answer": [
+            "containers",
+            "sauce cup",
+            "sour cream cup",
+            "dip cups",
+            "butter container",
+            "dishes",
+            "ramekin",
+            "little cups",
+            "small cups",
+            "chef"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000478766.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 479508002,
+        "question": "What is made of metal?",
+        "answer": [
+            "scissors",
+            "scissors",
+            "scissors",
+            "scissors",
+            "scissors",
+            "scissors",
+            "scissors",
+            "scissors",
+            "scissors",
+            "scissors"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000479508.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 348519002,
+        "question": "What material is the fork made from?",
+        "answer": [
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000348519.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 86483000,
+        "question": "What is the building made of?",
+        "answer": [
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "stone",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000086483.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 349184000,
+        "question": "What is the pavement made of?",
+        "answer": [
+            "cement",
+            "wood",
+            "bricks",
+            "brick",
+            "concrete",
+            "brick",
+            "stones",
+            "bricks",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000349184.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 87399000,
+        "question": "What is the little dog decoration made out of?",
+        "answer": [
+            "plastic",
+            "plastic",
+            "wood",
+            "plastic",
+            "wood",
+            "plastic",
+            "plastic",
+            "marble",
+            "plastic",
+            "fruit"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000087399.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 219589003,
+        "question": "What is the building made out of?",
+        "answer": [
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "bricks",
+            "brick",
+            "brick",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000219589.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 219723002,
+        "question": "What material are the boxes made of?",
+        "answer": [
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "cardboard",
+            "chicks",
+            "cardboard",
+            "cardboard"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000219723.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 350974001,
+        "question": "What is the ground made of?",
+        "answer": [
+            "stone",
+            "cobblestones",
+            "brick",
+            "cobble",
+            "brick",
+            "brick",
+            "stone",
+            "cobblestone",
+            "cobblestone",
+            "cobblestone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000350974.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 351149000,
+        "question": "What is the wall made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000351149.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 220171001,
+        "question": "What is the bench made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000220171.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 408120001,
+        "question": "What is the wall made of?",
+        "answer": [
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "bricks",
+            "brick",
+            "brick",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000408120.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 483348002,
+        "question": "What is this room made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000483348.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 484080007,
+        "question": "What is this juice made of?",
+        "answer": [
+            "orange",
+            "oranges",
+            "oranges",
+            "orange",
+            "orange",
+            "oranges",
+            "oranges",
+            "oranges",
+            "oranges",
+            "oranges"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000484080.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 222370041,
+        "question": "What is the building mostly made of?",
+        "answer": [
+            "concrete",
+            "stone",
+            "stucco",
+            "stone",
+            "stucco",
+            "concrete",
+            "plaster",
+            "concrete",
+            "stone",
+            "stucco"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000222370.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 222370047,
+        "question": "What is the road made out of?",
+        "answer": [
+            "pavement",
+            "cobblestone",
+            "cement blocks",
+            "cement",
+            "concrete",
+            "brick",
+            "concrete",
+            "concrete",
+            "concrete",
+            "cement"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000222370.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 222370067,
+        "question": "What is the building made of?",
+        "answer": [
+            "cement",
+            "brick",
+            "cement",
+            "stone",
+            "mortar",
+            "stone",
+            "stone",
+            "stone",
+            "stone",
+            "stone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000222370.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 484938014,
+        "question": "What is the floor made of?",
+        "answer": [
+            "carpet",
+            "carpet",
+            "carpet",
+            "carpet",
+            "wood",
+            "carpet",
+            "carpet",
+            "carpet",
+            "carpet",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000484938.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 223241004,
+        "question": "What is the guy's hat made of?",
+        "answer": [
+            "no hat",
+            "straw",
+            "cotton",
+            "no hat",
+            "cotton",
+            "no hat",
+            "no hat",
+            "nothing",
+            "none",
+            "none"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000223241.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 223241047,
+        "question": "What material is the chair made of?",
+        "answer": [
+            "cloth",
+            "cotton",
+            "microfiber",
+            "cloth",
+            "cloth",
+            "cotton",
+            "leather",
+            "microsuede",
+            "cotton",
+            "suede"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000223241.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 168337004,
+        "question": "What material is the building made of?",
+        "answer": [
+            "brick",
+            "stone",
+            "stone",
+            "stone",
+            "concrete",
+            "cement",
+            "stone",
+            "brick",
+            "stone",
+            "stone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000168337.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 223648000,
+        "question": "What is the floor made of?",
+        "answer": [
+            "bamboo",
+            "wood",
+            "hardwood",
+            "wood",
+            "wood",
+            "hardwood",
+            "wood",
+            "wood",
+            "wood",
+            "hardwood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000223648.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 223648001,
+        "question": "What are the utensils made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000223648.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 93765000,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood",
+            "plastic",
+            "wood",
+            "wood",
+            "wood",
+            "bricks",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000093765.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 539926001,
+        "question": "What is the pan made of?",
+        "answer": [
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000539926.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 474675001,
+        "question": "What material is the table made from?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000474675.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 103375003,
+        "question": "What are the shades made of?",
+        "answer": [
+            "cotton",
+            "bamboo",
+            "plastic",
+            "bamboo",
+            "plastic",
+            "sunshine",
+            "bamboo",
+            "bamboo",
+            "plastic",
+            "bamboo"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000103375.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 96351006,
+        "question": "What is this made of?",
+        "answer": [
+            "metal",
+            "metals",
+            "steel",
+            "metalrubber plastic",
+            "steel",
+            "metal",
+            "metal",
+            "metal",
+            "metal",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000096351.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 96351012,
+        "question": "What is the road made of?",
+        "answer": [
+            "concrete",
+            "concrete",
+            "asphalt",
+            "tar",
+            "cement",
+            "asphalt",
+            "asphalt",
+            "asphalt",
+            "asphalt",
+            "pavement"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000096351.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 97240000,
+        "question": "What material is the rolling pin made of?",
+        "answer": [
+            "marble",
+            "marble",
+            "marble",
+            "metal",
+            "medal",
+            "marble wood",
+            "wood",
+            "marble",
+            "marble",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000097240.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 97693001,
+        "question": "What two colors are the bed sheets made of?",
+        "answer": [
+            "blue and white",
+            "blue and white",
+            "blue and white",
+            "white and blue",
+            "blue and white",
+            "white and blue",
+            "blue and white",
+            "blue white",
+            "blue white",
+            "white"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000097693.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 99961002,
+        "question": "What is the fence made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "rails",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000099961.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 100853003,
+        "question": "What material is the floor made of?",
+        "answer": [
+            "tiles",
+            "tiles",
+            "tile",
+            "tile",
+            "bricks",
+            "tile",
+            "tile",
+            "tile",
+            "tile",
+            "tiles"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000100853.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 363594002,
+        "question": "What is made of wood?",
+        "answer": [
+            "table",
+            "table",
+            "table",
+            "table",
+            "table",
+            "table",
+            "table",
+            "table",
+            "table",
+            "table"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000363594.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 497014007,
+        "question": "What is the fence made out of?",
+        "answer": [
+            "chain link",
+            "metal",
+            "chain link",
+            "metal",
+            "metal",
+            "metal",
+            "chain link",
+            "metal",
+            "metal",
+            "wire"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000497014.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 499537006,
+        "question": "What is the sidewalk made out of?",
+        "answer": [
+            "bricks",
+            "brick",
+            "bricks",
+            "bricks",
+            "bricks",
+            "brick",
+            "brick",
+            "brick",
+            "bricks",
+            "bricks"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000499537.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 106909001,
+        "question": "What material are the chairs made of?",
+        "answer": [
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000106909.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 107183001,
+        "question": "What are the roofs made of?",
+        "answer": [
+            "stone",
+            "concrete",
+            "concrete",
+            "house",
+            "stone",
+            "concrete",
+            "cement",
+            "concrete",
+            "concrete",
+            "stone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000107183.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 369373002,
+        "question": "What material is the black sofa?",
+        "answer": [
+            "leather",
+            "leather",
+            "vinyl",
+            "microfiber",
+            "leather",
+            "none",
+            "leather",
+            "leather",
+            "none",
+            "leather"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000369373.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 501491015,
+        "question": "What are the spoon and the fork made of?",
+        "answer": [
+            "metal",
+            "metal",
+            "metal",
+            "plastic",
+            "metal",
+            "metal",
+            "metal",
+            "silver",
+            "plastic",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000501491.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 373007001,
+        "question": "What is the building made of?",
+        "answer": [
+            "brick",
+            "brick",
+            "wood",
+            "brick",
+            "brick",
+            "brick",
+            "bricks",
+            "brick",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000373007.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 373007003,
+        "question": "What material is the largest object made out of?",
+        "answer": [
+            "brick",
+            "brick",
+            "brick",
+            "bricks",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000373007.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 302555007,
+        "question": "What vegetable is the crispy snack food made of?",
+        "answer": [
+            "potatoes",
+            "potato",
+            "potatoes",
+            "potato",
+            "potatoes",
+            "potato",
+            "potato",
+            "potatoes",
+            "potato",
+            "potato"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000302555.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 302555019,
+        "question": "What is the tray made of?",
+        "answer": [
+            "blue",
+            "glass",
+            "ceramic",
+            "ceramic",
+            "wood",
+            "glass",
+            "ceramic",
+            "wood",
+            "metal",
+            "ceramic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000302555.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 243090004,
+        "question": "What are the shelves made of?",
+        "answer": [
+            "glass",
+            "plastic",
+            "plastic or glass or metal",
+            "metal",
+            "metal and plastic",
+            "glass",
+            "plastic",
+            "silver",
+            "glass",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000243090.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 113128000,
+        "question": "What is the bench made from?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood and stone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000113128.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 507352003,
+        "question": "What material is the floor?",
+        "answer": [
+            "tile",
+            "carpet",
+            "wood",
+            "wood",
+            "plastic",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000507352.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 377368000,
+        "question": "What material are the walls of this room made from?",
+        "answer": [
+            "tile",
+            "bricks",
+            "ceramic tile",
+            "concrete",
+            "unknown",
+            "blocks",
+            "concrete",
+            "brick",
+            "tile",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000377368.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 116574002,
+        "question": "What is the wall made of?",
+        "answer": [
+            "concrete block",
+            "brick",
+            "concrete",
+            "brick",
+            "bricks",
+            "cement",
+            "block",
+            "stone",
+            "stone",
+            "brick"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000116574.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 378814002,
+        "question": "What material is the fence made out of?",
+        "answer": [
+            "metal",
+            "metal",
+            "metal",
+            "wire",
+            "metal",
+            "aluminum",
+            "tar",
+            "wire",
+            "metal",
+            "galvanized steel"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000378814.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 405531006,
+        "question": "What is the building made out of?",
+        "answer": [
+            "bricks",
+            "brick",
+            "brick",
+            "bricks",
+            "bricks",
+            "brick",
+            "bricks",
+            "brick",
+            "brick",
+            "bricks"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000405531.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 514402002,
+        "question": "What is the clock made of?",
+        "answer": [
+            "metal",
+            "metal",
+            "metal",
+            "glass",
+            "tile",
+            "steel",
+            "ceramic",
+            "glass",
+            "tile",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000514402.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 253825001,
+        "question": "What is the vase made of?",
+        "answer": [
+            "jar glass ",
+            "glass",
+            "mason jar",
+            "glass",
+            "glass",
+            "glass",
+            "glass",
+            "porcelain",
+            "glass",
+            "glass"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000253825.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 386164002,
+        "question": "What material are the utensils made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000386164.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 436141002,
+        "question": "What material is the countertop made of?",
+        "answer": [
+            "porcelain",
+            "enameled cast iron",
+            "laminate",
+            "porcelain",
+            "ceramic",
+            "fiberglass",
+            "wood",
+            "porcelain",
+            "slate",
+            "stone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000436141.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 388983001,
+        "question": "What is the container made out of?",
+        "answer": [
+            "paper",
+            "paper",
+            "paper",
+            "paper",
+            "paper",
+            "cardboard",
+            "cardboard",
+            "paper",
+            "paper",
+            "paper"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000388983.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 128014002,
+        "question": "What is the bed frame made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "steel",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000128014.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 129431000,
+        "question": "What are the tusks made of?",
+        "answer": [
+            "ivory",
+            "ivory",
+            "bone",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory",
+            "ivory"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000129431.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 132415006,
+        "question": "What is the plate made of?",
+        "answer": [
+            "paper",
+            "paper",
+            "paper",
+            "paper",
+            "paper",
+            "paper",
+            "paper",
+            "paper",
+            "paper",
+            "paper"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000132415.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 395124004,
+        "question": "What material is the walls made of?",
+        "answer": [
+            "wood",
+            "ceramic",
+            "cement",
+            "tile",
+            "drywall",
+            "tile wood and plaster",
+            "tiles",
+            "tile and plaster",
+            "ceramic",
+            "wood and tile"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000395124.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 268394000,
+        "question": "What are the wheels made of?",
+        "answer": [
+            "cake",
+            "fondant",
+            "fondant",
+            "fondue",
+            "fondant",
+            "plastic",
+            "fondant",
+            "cake",
+            "i don't know",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000268394.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 146042007,
+        "question": "What is the fence made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000146042.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 539423002,
+        "question": "What material is the countertop?",
+        "answer": [
+            "nothing",
+            "tile",
+            "formica",
+            "tile",
+            "tile",
+            "tile",
+            "ceramic tile",
+            "tile",
+            "kettle",
+            "kettle"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000539423.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 546500001,
+        "question": "What is the table made out off?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000546500.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 113040000,
+        "question": "What material is that fabric made out of?",
+        "answer": [
+            "cloth",
+            "cotton",
+            "cotton",
+            "cotton",
+            "cotton",
+            "cloth",
+            "cloth",
+            "cloth",
+            "cotton",
+            "polyester"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000113040.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 551974036,
+        "question": "What material is the dress made of?",
+        "answer": [
+            "cotton",
+            "cotton",
+            "cotton",
+            "cotton",
+            "cotton",
+            "cotton",
+            "knit",
+            "silk",
+            "cotton",
+            "cotton"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000551974.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 30685002,
+        "question": "What is the fence made of?",
+        "answer": [
+            "metal",
+            "wrought iron",
+            "metal",
+            "iron",
+            "metal",
+            "steel",
+            "metal",
+            "metal",
+            "metal",
+            "medal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000030685.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 431570004,
+        "question": "What is the wall made of?",
+        "answer": [
+            "straw",
+            "straw",
+            "hay",
+            "hay",
+            "hay",
+            "straw",
+            "straw",
+            "hay",
+            "straw",
+            "hay bales"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000431570.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 28377005,
+        "question": "What is the wall made of?",
+        "answer": [
+            "cement",
+            "stucco",
+            "brick",
+            "stone",
+            "plaster",
+            "brick",
+            "stone",
+            "stucco",
+            "concrete",
+            "stucco"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000028377.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 175948002,
+        "question": "What is the counter on the right made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000175948.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 439472011,
+        "question": "What is the couch made of?",
+        "answer": [
+            "fabric",
+            "cloth",
+            "cloth",
+            "fabric",
+            "wood and cloth",
+            "leather",
+            "cotton",
+            "cloth",
+            "fabric",
+            "fabric"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000439472.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 575916007,
+        "question": "What is the fruit tray made of?",
+        "answer": [
+            "glass",
+            "metal",
+            "glass",
+            "silver",
+            "plastic",
+            "silver",
+            "glass",
+            "metal",
+            "glass",
+            "metal"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000575916.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 199346003,
+        "question": "What material is used to make the horse statue?",
+        "answer": [
+            "concrete",
+            "iron",
+            "metal",
+            "iron",
+            "copper",
+            "copper",
+            "bronze",
+            "cement",
+            "bronze",
+            "marble"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000199346.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 467197000,
+        "question": "What is the floor made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000467197.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 473069009,
+        "question": "What material is the table made of?",
+        "answer": [
+            "wood",
+            "wood",
+            "no table",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000473069.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 93803001,
+        "question": "What is the street made of?",
+        "answer": [
+            "dirt",
+            "dirt",
+            "dirt",
+            "dirt",
+            "pavement",
+            "pavement",
+            "concrete",
+            "dirt",
+            "dirt",
+            "asphalt"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000093803.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 103496006,
+        "question": "What is the wall behind the woman made of?",
+        "answer": [
+            "sheetrock",
+            "drywall",
+            "plaster",
+            "plaster",
+            "concrete",
+            "drywall",
+            "wood",
+            "drywall",
+            "drywall",
+            "sheetrock"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000103496.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 368222003,
+        "question": "What is the table made of?",
+        "answer": [
+            "plastic",
+            "plastic",
+            "wood",
+            "laminate",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "wood",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000368222.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 369243000,
+        "question": "What is the building made of?",
+        "answer": [
+            "bricks",
+            "cinder blocks",
+            "bricks",
+            "brick",
+            "stone",
+            "bricks",
+            "stone",
+            "brick",
+            "brick",
+            "bricks"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000369243.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 245242000,
+        "question": "What is the knifes blade made of?",
+        "answer": [
+            "metal",
+            "steel",
+            "steel",
+            "steel",
+            "metal",
+            "steel",
+            "steel",
+            "steel",
+            "metal",
+            "steel"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000245242.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 385378001,
+        "question": "What is the clock tower made of?",
+        "answer": [
+            "stones",
+            "stone",
+            "stone",
+            "rock",
+            "bricks",
+            "stones",
+            "stone",
+            "stone",
+            "stone",
+            "stone"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000385378.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 519815006,
+        "question": "What material is the tub made from?",
+        "answer": [
+            "porcelain",
+            "porcelain",
+            "ceramic",
+            "porcelain",
+            "metal",
+            "fiberglass",
+            "porcelain",
+            "ceramic",
+            "proc",
+            "porcelain"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000519815.jpg"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 389644002,
+        "question": "What are the tables and chairs made out of?",
+        "answer": [
+            "plastic",
+            "plastic",
+            "metal",
+            "plastic",
+            "metal",
+            "plastic",
+            "plastic",
+            "plastic metal",
+            "metal",
+            "plastic"
+        ],
+        "image": [
+            "val2014/COCO_val2014_000000389644.jpg"
+        ],
+        "dataset": "vqa"
+    }
+]

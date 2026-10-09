@@ -1,0 +1,37 @@
+vqa_path: 'datasets/gqa'
+task_list:
+  - name: gqa_Relation
+    config: 'configs/task_config/gqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/gqa/train_relation.json' , 'datasets/gqa/val_relation.json' ,'datasets/gqa/test_relation.json' ]
+  - name: gqa_Action
+    config: 'configs/task_config/gqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/gqa/train_action.json' , 'datasets/gqa/val_action.json' ,'datasets/gqa/test_action.json' ]
+  - name: gqa_Recognition
+    config: 'configs/task_config/gqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/gqa/train_object.json' , 'datasets/gqa/val_object.json' ,'datasets/gqa/test_object.json' ]
+  - name: gqa_Position
+    config: 'configs/task_config/gqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/gqa/train_position.json' , 'datasets/gqa/val_position.json' ,'datasets/gqa/test_position.json' ]
+  - name: gqa_Color
+    config: 'configs/task_config/gqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/gqa/train_color.json' , 'datasets/gqa/val_color.json' ,'datasets/gqa/test_color.json' ]
+  - name: gqa_Material
+    config: 'configs/task_config/gqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/gqa/train_material.json' , 'datasets/gqa/val_material.json' ,'datasets/gqa/test_material.json' ]
+  - name: gqa_Logic
+    config: 'configs/task_config/gqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/gqa/train_logical.json' , 'datasets/gqa/val_logical.json' ,'datasets/gqa/test_logical.json' ]
+
+order: fixed
+pretrained: 'xxx/checkpoint/model_base.pth'
+LM_path: 'xxx/checkpoint/Qwen2.5-3B-Instruct/'
+
+
+

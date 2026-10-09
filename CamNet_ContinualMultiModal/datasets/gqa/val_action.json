@@ -1,0 +1,6253 @@
+[
+    {
+        "image": "images/2381096.jpg",
+        "question": "Who is posing?",
+        "answer": "woman",
+        "question_id": 614,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2355532.jpg",
+        "question": "What is the player that is not tall doing, waiting or playing?",
+        "answer": "waiting",
+        "question_id": 615,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388870.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 616,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405339.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 617,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407473.jpg",
+        "question": "What is he doing?",
+        "answer": "lying",
+        "question_id": 618,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378646.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 619,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2351822.jpg",
+        "question": "Who is pointing?",
+        "answer": "player",
+        "question_id": 620,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410150.jpg",
+        "question": "What is the bird doing?",
+        "answer": "resting",
+        "question_id": 621,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/23.jpg",
+        "question": "Who is standing?",
+        "answer": "girl",
+        "question_id": 622,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2317721.jpg",
+        "question": "Who in this photograph is playing?",
+        "answer": "boy",
+        "question_id": 623,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2861.jpg",
+        "question": "What is the man doing?",
+        "answer": "standing",
+        "question_id": 624,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2365635.jpg",
+        "question": "Who is walking?",
+        "answer": "man",
+        "question_id": 625,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363959.jpg",
+        "question": "What's the player doing?",
+        "answer": "bending",
+        "question_id": 626,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409624.jpg",
+        "question": "What is she doing?",
+        "answer": "playing",
+        "question_id": 627,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390599.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 628,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2354416.jpg",
+        "question": "Who is standing?",
+        "answer": "girl",
+        "question_id": 629,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379292.jpg",
+        "question": "What's the girl doing?",
+        "answer": "taking a picture",
+        "question_id": 630,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/1159529.jpg",
+        "question": "Who is walking?",
+        "answer": "men",
+        "question_id": 631,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2323166.jpg",
+        "question": "Who is dressed in white?",
+        "answer": "guy",
+        "question_id": 632,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405414.jpg",
+        "question": "What is the man doing, surfing or snowboarding?",
+        "answer": "snowboarding",
+        "question_id": 633,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413981.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 634,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2356747.jpg",
+        "question": "Who is brushing teeth?",
+        "answer": "man",
+        "question_id": 635,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318283.jpg",
+        "question": "What's the horse doing?",
+        "answer": "eating",
+        "question_id": 636,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2367219.jpg",
+        "question": "What are the people to the left of the catcher doing?",
+        "answer": "playing",
+        "question_id": 637,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318586.jpg",
+        "question": "What is the dog doing?",
+        "answer": "waiting",
+        "question_id": 638,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319110.jpg",
+        "question": "Who is jumping?",
+        "answer": "man",
+        "question_id": 639,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2324831.jpg",
+        "question": "Who is walking?",
+        "answer": "girls",
+        "question_id": 640,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371822.jpg",
+        "question": "What is the boy that is to the right of the dish soap doing?",
+        "answer": "brushing teeth",
+        "question_id": 641,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413588.jpg",
+        "question": "What is the woman doing?",
+        "answer": "running",
+        "question_id": 642,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381471.jpg",
+        "question": "What is the giraffe doing?",
+        "answer": "walking",
+        "question_id": 643,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378739.jpg",
+        "question": "What is the person to the left of the girl doing?",
+        "answer": "standing",
+        "question_id": 644,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389626.jpg",
+        "question": "What is the person to the right of the boy doing?",
+        "answer": "bending",
+        "question_id": 645,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2370893.jpg",
+        "question": "What is the man doing?",
+        "answer": "playing",
+        "question_id": 646,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393625.jpg",
+        "question": "Who is performing trick?",
+        "answer": "boy",
+        "question_id": 647,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379475.jpg",
+        "question": "Who is resting?",
+        "answer": "man",
+        "question_id": 648,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393484.jpg",
+        "question": "Who is walking?",
+        "answer": "women",
+        "question_id": 649,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2325932.jpg",
+        "question": "Who is dressed in black?",
+        "answer": "woman",
+        "question_id": 650,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362040.jpg",
+        "question": "Who is surfing?",
+        "answer": "lady",
+        "question_id": 651,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318861.jpg",
+        "question": "What are the people in the audience doing, sitting or standing?",
+        "answer": "sitting",
+        "question_id": 652,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393381.jpg",
+        "question": "What's the girl doing?",
+        "answer": "skiing",
+        "question_id": 653,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379778.jpg",
+        "question": "Who is standing?",
+        "answer": "girl",
+        "question_id": 654,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402114.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 655,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2376529.jpg",
+        "question": "Who in the picture is playing frisbee?",
+        "answer": "dog",
+        "question_id": 656,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2370047.jpg",
+        "question": "What is the girl doing?",
+        "answer": "brushing teeth",
+        "question_id": 657,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404734.jpg",
+        "question": "What is the person in front of the plant doing?",
+        "answer": "drinking",
+        "question_id": 658,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372158.jpg",
+        "question": "Who is walking?",
+        "answer": "man",
+        "question_id": 659,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342125.jpg",
+        "question": "What are the floating people in the ocean doing, riding or swimming?",
+        "answer": "swimming",
+        "question_id": 660,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342125.jpg",
+        "question": "Who is swimming?",
+        "answer": "children",
+        "question_id": 661,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391915.jpg",
+        "question": "Who is sitting?",
+        "answer": "women",
+        "question_id": 662,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407901.jpg",
+        "question": "What is the woman doing?",
+        "answer": "talking",
+        "question_id": 663,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2336114.jpg",
+        "question": "Who is playing baseball?",
+        "answer": "player",
+        "question_id": 664,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402336.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 665,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402712.jpg",
+        "question": "Who is surfing?",
+        "answer": "woman",
+        "question_id": 666,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414475.jpg",
+        "question": "What's the woman doing?",
+        "answer": "brushing teeth",
+        "question_id": 667,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411509.jpg",
+        "question": "What is the zebra doing?",
+        "answer": "walking",
+        "question_id": 668,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2327683.jpg",
+        "question": "What is the man doing?",
+        "answer": "riding",
+        "question_id": 669,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2376715.jpg",
+        "question": "Who is dressed in black?",
+        "answer": "girl",
+        "question_id": 670,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2334043.jpg",
+        "question": "Who is sitting?",
+        "answer": "player",
+        "question_id": 671,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412682.jpg",
+        "question": "What is the person that is to the left of the tent doing?",
+        "answer": "walking",
+        "question_id": 672,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390097.jpg",
+        "question": "What's the man doing?",
+        "answer": "jumping",
+        "question_id": 673,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414475.jpg",
+        "question": "What is the woman doing?",
+        "answer": "brushing teeth",
+        "question_id": 674,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397582.jpg",
+        "question": "What is the person near the skillet doing?",
+        "answer": "cooking",
+        "question_id": 675,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389626.jpg",
+        "question": "Who is bending?",
+        "answer": "child",
+        "question_id": 676,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2328825.jpg",
+        "question": "What is the man to the right of the other man doing?",
+        "answer": "running",
+        "question_id": 677,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381933.jpg",
+        "question": "Who is playing?",
+        "answer": "woman",
+        "question_id": 678,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384063.jpg",
+        "question": "What are the people that are talking doing?",
+        "answer": "skiing",
+        "question_id": 679,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398835.jpg",
+        "question": "What is he doing?",
+        "answer": "running",
+        "question_id": 680,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413136.jpg",
+        "question": "What is the cat doing?",
+        "answer": "playing",
+        "question_id": 681,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392274.jpg",
+        "question": "What is the man doing?",
+        "answer": "walking",
+        "question_id": 682,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407703.jpg",
+        "question": "What's the man doing?",
+        "answer": "lying",
+        "question_id": 683,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342125.jpg",
+        "question": "What are the people in the water doing?",
+        "answer": "lying",
+        "question_id": 684,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396174.jpg",
+        "question": "What is the boy doing?",
+        "answer": "jumping",
+        "question_id": 685,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2358167.jpg",
+        "question": "Who is taking a picture?",
+        "answer": "man",
+        "question_id": 686,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407659.jpg",
+        "question": "Who in the picture is walking?",
+        "answer": "man",
+        "question_id": 687,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396750.jpg",
+        "question": "What is the woman in front of the pizza doing?",
+        "answer": "posing",
+        "question_id": 688,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414129.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 689,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379820.jpg",
+        "question": "Who is skiing?",
+        "answer": "people",
+        "question_id": 690,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2347289.jpg",
+        "question": "What is the man doing?",
+        "answer": "surfing",
+        "question_id": 691,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396731.jpg",
+        "question": "Who is walking?",
+        "answer": "boy",
+        "question_id": 692,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384063.jpg",
+        "question": "Who in this photo is skiing?",
+        "answer": "people",
+        "question_id": 693,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2348136.jpg",
+        "question": "Who is sitting?",
+        "answer": "players",
+        "question_id": 694,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2359192.jpg",
+        "question": "What is the boy doing?",
+        "answer": "making a face",
+        "question_id": 695,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363203.jpg",
+        "question": "What are the people that are to the left of the other person doing?",
+        "answer": "bending",
+        "question_id": 696,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362724.jpg",
+        "question": "What is the dog doing?",
+        "answer": "sleeping",
+        "question_id": 697,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2333619.jpg",
+        "question": "Who is walking?",
+        "answer": "man",
+        "question_id": 698,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403595.jpg",
+        "question": "What is she doing?",
+        "answer": "posing",
+        "question_id": 699,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372754.jpg",
+        "question": "Who in this photograph is eating?",
+        "answer": "woman",
+        "question_id": 700,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389666.jpg",
+        "question": "What is the person with the hat doing?",
+        "answer": "standing",
+        "question_id": 701,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372892.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 702,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2370705.jpg",
+        "question": "What is this person doing?",
+        "answer": "lying",
+        "question_id": 703,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2361083.jpg",
+        "question": "What is the person doing?",
+        "answer": "walking",
+        "question_id": 704,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2356126.jpg",
+        "question": "What is the man doing?",
+        "answer": "eating",
+        "question_id": 705,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388404.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 706,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2357369.jpg",
+        "question": "Who in this image is skiing?",
+        "answer": "people",
+        "question_id": 707,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402240.jpg",
+        "question": "What do you think is the person to the right of the train doing?",
+        "answer": "standing",
+        "question_id": 708,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386051.jpg",
+        "question": "Who in this photo is dressed in red?",
+        "answer": "girl",
+        "question_id": 709,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/1159889.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 710,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371802.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 711,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2364614.jpg",
+        "question": "What is the man doing?",
+        "answer": "sitting",
+        "question_id": 712,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2356252.jpg",
+        "question": "What is the young giraffe doing?",
+        "answer": "bending",
+        "question_id": 713,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403341.jpg",
+        "question": "What is the animal that is black and white doing?",
+        "answer": "walking",
+        "question_id": 714,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381933.jpg",
+        "question": "What is the woman doing?",
+        "answer": "playing",
+        "question_id": 715,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379185.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 716,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413341.jpg",
+        "question": "Who in the picture is sitting?",
+        "answer": "woman",
+        "question_id": 717,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386019.jpg",
+        "question": "Who is jumping?",
+        "answer": "snowboarder",
+        "question_id": 718,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386352.jpg",
+        "question": "What is he doing?",
+        "answer": "eating",
+        "question_id": 719,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396995.jpg",
+        "question": "What is the animal in front of the tree doing?",
+        "answer": "standing",
+        "question_id": 720,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406429.jpg",
+        "question": "Who is dressed in red?",
+        "answer": "people",
+        "question_id": 721,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402876.jpg",
+        "question": "What is the horse to the right of the man doing?",
+        "answer": "running",
+        "question_id": 722,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405677.jpg",
+        "question": "What's the person doing?",
+        "answer": "driving",
+        "question_id": 723,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319319.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 724,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319110.jpg",
+        "question": "Who is standing?",
+        "answer": "boy",
+        "question_id": 725,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406278.jpg",
+        "question": "Who in this picture is standing?",
+        "answer": "girl",
+        "question_id": 726,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402809.jpg",
+        "question": "What is the brown animal doing?",
+        "answer": "reading",
+        "question_id": 727,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404476.jpg",
+        "question": "Who is talking?",
+        "answer": "woman",
+        "question_id": 728,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2348897.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 729,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2376544.jpg",
+        "question": "What is he doing?",
+        "answer": "eating",
+        "question_id": 730,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391748.jpg",
+        "question": "Who is playing tennis?",
+        "answer": "woman",
+        "question_id": 731,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391757.jpg",
+        "question": "Who is posing?",
+        "answer": "people",
+        "question_id": 732,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390355.jpg",
+        "question": "What is the man to the right of the other man doing?",
+        "answer": "talking",
+        "question_id": 733,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381963.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 734,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363105.jpg",
+        "question": "Who is facing left?",
+        "answer": "cows",
+        "question_id": 735,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401019.jpg",
+        "question": "What is he doing?",
+        "answer": "playing",
+        "question_id": 736,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2375514.jpg",
+        "question": "What is the man doing, riding or skateboarding?",
+        "answer": "riding",
+        "question_id": 737,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406789.jpg",
+        "question": "Who is playing cricket?",
+        "answer": "player",
+        "question_id": 738,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2416885.jpg",
+        "question": "What is the man on the snowboard doing?",
+        "answer": "surfing",
+        "question_id": 739,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2344955.jpg",
+        "question": "Who is waiting?",
+        "answer": "man",
+        "question_id": 740,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2358111.jpg",
+        "question": "Who is standing?",
+        "answer": "catcher",
+        "question_id": 741,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2415046.jpg",
+        "question": "Who is standing?",
+        "answer": "snowboarder",
+        "question_id": 742,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391761.jpg",
+        "question": "What is the dog doing?",
+        "answer": "standing",
+        "question_id": 743,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378698.jpg",
+        "question": "What is the small person doing?",
+        "answer": "sitting",
+        "question_id": 744,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/61533.jpg",
+        "question": "Who is playing tennis?",
+        "answer": "girl",
+        "question_id": 745,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379466.jpg",
+        "question": "What's the girl doing?",
+        "answer": "drinking",
+        "question_id": 746,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405244.jpg",
+        "question": "What is the man doing?",
+        "answer": "walking",
+        "question_id": 747,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2358919.jpg",
+        "question": "Who is riding?",
+        "answer": "skater",
+        "question_id": 748,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400262.jpg",
+        "question": "What is the person in front of the fence doing?",
+        "answer": "jumping",
+        "question_id": 749,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2377607.jpg",
+        "question": "What is the person on the skateboard doing, crouching or standing?",
+        "answer": "crouching",
+        "question_id": 750,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399600.jpg",
+        "question": "What is the man on the street doing?",
+        "answer": "walking",
+        "question_id": 751,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412612.jpg",
+        "question": "What is the strong cow on the sand doing?",
+        "answer": "resting",
+        "question_id": 752,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371387.jpg",
+        "question": "What is she doing?",
+        "answer": "taking bath",
+        "question_id": 753,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400339.jpg",
+        "question": "Who is waiting?",
+        "answer": "umpire",
+        "question_id": 754,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381595.jpg",
+        "question": "Who is running?",
+        "answer": "girl",
+        "question_id": 755,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396071.jpg",
+        "question": "What are the people on the sidewalk doing?",
+        "answer": "walking",
+        "question_id": 756,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411222.jpg",
+        "question": "What is the boy doing?",
+        "answer": "playing",
+        "question_id": 757,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372873.jpg",
+        "question": "What is the man doing?",
+        "answer": "standing",
+        "question_id": 758,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363706.jpg",
+        "question": "What's the woman doing?",
+        "answer": "sitting",
+        "question_id": 759,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2355633.jpg",
+        "question": "Who is dressed in pink?",
+        "answer": "lady",
+        "question_id": 760,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2358058.jpg",
+        "question": "What is the man doing?",
+        "answer": "surfing",
+        "question_id": 761,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396731.jpg",
+        "question": "What's the girl doing?",
+        "answer": "running",
+        "question_id": 762,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2861.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 763,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386899.jpg",
+        "question": "Who is playing tennis?",
+        "answer": "man",
+        "question_id": 764,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413325.jpg",
+        "question": "What is the person that is to the left of the woman doing?",
+        "answer": "talking",
+        "question_id": 765,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2341637.jpg",
+        "question": "Who is walking?",
+        "answer": "girl",
+        "question_id": 766,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372614.jpg",
+        "question": "What is the man doing?",
+        "answer": "eating",
+        "question_id": 767,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384979.jpg",
+        "question": "What's the woman doing?",
+        "answer": "bending",
+        "question_id": 768,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2383269.jpg",
+        "question": "What is the person behind the grill doing?",
+        "answer": "cooking",
+        "question_id": 769,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/61590.jpg",
+        "question": "Who is playing?",
+        "answer": "boy",
+        "question_id": 770,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408649.jpg",
+        "question": "Who is sitting?",
+        "answer": "people",
+        "question_id": 771,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/713018.jpg",
+        "question": "What is the boy doing?",
+        "answer": "bending",
+        "question_id": 772,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408291.jpg",
+        "question": "What is the zebra doing?",
+        "answer": "standing",
+        "question_id": 773,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407802.jpg",
+        "question": "Who is sitting?",
+        "answer": "catcher",
+        "question_id": 774,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384979.jpg",
+        "question": "Who is skiing?",
+        "answer": "woman",
+        "question_id": 775,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2352130.jpg",
+        "question": "What is the man doing?",
+        "answer": "riding",
+        "question_id": 776,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319241.jpg",
+        "question": "What is the cow doing?",
+        "answer": "lying",
+        "question_id": 777,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2357448.jpg",
+        "question": "Who in the picture is standing?",
+        "answer": "man",
+        "question_id": 778,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412204.jpg",
+        "question": "What is the boy doing?",
+        "answer": "eating",
+        "question_id": 779,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389115.jpg",
+        "question": "What is the man doing?",
+        "answer": "drinking",
+        "question_id": 780,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385924.jpg",
+        "question": "Who is playing?",
+        "answer": "lady",
+        "question_id": 781,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384460.jpg",
+        "question": "What is he doing, playing or waiting?",
+        "answer": "waiting",
+        "question_id": 782,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2336114.jpg",
+        "question": "Who is running?",
+        "answer": "player",
+        "question_id": 783,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2415204.jpg",
+        "question": "What's the woman doing?",
+        "answer": "eating",
+        "question_id": 784,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392318.jpg",
+        "question": "What is the person that is to the right of the plates doing?",
+        "answer": "waiting",
+        "question_id": 785,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2377945.jpg",
+        "question": "What is the woman doing?",
+        "answer": "playing",
+        "question_id": 786,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388805.jpg",
+        "question": "What is the person on the table doing?",
+        "answer": "lying",
+        "question_id": 787,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2333221.jpg",
+        "question": "Who is playing soccer?",
+        "answer": "children",
+        "question_id": 788,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411492.jpg",
+        "question": "Who is talking?",
+        "answer": "man",
+        "question_id": 789,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371387.jpg",
+        "question": "Who is taking bath?",
+        "answer": "lady",
+        "question_id": 790,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2375919.jpg",
+        "question": "Who is riding?",
+        "answer": "boy",
+        "question_id": 791,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401955.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 792,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2351260.jpg",
+        "question": "Who is sitting?",
+        "answer": "people",
+        "question_id": 793,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405330.jpg",
+        "question": "Who is dressed in orange?",
+        "answer": "woman",
+        "question_id": 794,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412784.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 795,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395949.jpg",
+        "question": "What is the guy to the right of the backpack doing?",
+        "answer": "taking a picture",
+        "question_id": 796,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398249.jpg",
+        "question": "Who is swimming?",
+        "answer": "man",
+        "question_id": 797,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410668.jpg",
+        "question": "What is the dog doing?",
+        "answer": "sitting",
+        "question_id": 798,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410056.jpg",
+        "question": "Who in this photo is playing?",
+        "answer": "girl",
+        "question_id": 799,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378780.jpg",
+        "question": "Who in the picture is playing?",
+        "answer": "child",
+        "question_id": 800,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384006.jpg",
+        "question": "What is the girl doing?",
+        "answer": "playing",
+        "question_id": 801,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404878.jpg",
+        "question": "Who is eating?",
+        "answer": "boy",
+        "question_id": 802,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399408.jpg",
+        "question": "Who is playing?",
+        "answer": "people",
+        "question_id": 803,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380691.jpg",
+        "question": "Who in this image is running?",
+        "answer": "man",
+        "question_id": 804,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319825.jpg",
+        "question": "Who is standing?",
+        "answer": "boy",
+        "question_id": 805,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399053.jpg",
+        "question": "What is the woman doing?",
+        "answer": "reading",
+        "question_id": 806,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2382716.jpg",
+        "question": "What is the man doing?",
+        "answer": "talking",
+        "question_id": 807,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2352785.jpg",
+        "question": "What is the lady doing?",
+        "answer": "waiting",
+        "question_id": 808,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2340480.jpg",
+        "question": "Who is dressed in white?",
+        "answer": "lady",
+        "question_id": 809,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363203.jpg",
+        "question": "Who is bending?",
+        "answer": "people",
+        "question_id": 810,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2387118.jpg",
+        "question": "What is that cow doing?",
+        "answer": "staring",
+        "question_id": 811,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403590.jpg",
+        "question": "Who is waiting?",
+        "answer": "woman",
+        "question_id": 812,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403557.jpg",
+        "question": "Who is walking?",
+        "answer": "boy",
+        "question_id": 813,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2341637.jpg",
+        "question": "What is the girl doing?",
+        "answer": "walking",
+        "question_id": 814,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/150391.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 815,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414571.jpg",
+        "question": "Who is playing frisbee?",
+        "answer": "boys",
+        "question_id": 816,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373271.jpg",
+        "question": "What is the boy that is not old doing?",
+        "answer": "eating",
+        "question_id": 817,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407404.jpg",
+        "question": "Who is skiing?",
+        "answer": "man",
+        "question_id": 818,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2358081.jpg",
+        "question": "Who is playing tennis?",
+        "answer": "man",
+        "question_id": 819,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398485.jpg",
+        "question": "What's she doing?",
+        "answer": "drinking",
+        "question_id": 820,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392252.jpg",
+        "question": "What's he doing?",
+        "answer": "walking",
+        "question_id": 821,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371005.jpg",
+        "question": "Who is jumping?",
+        "answer": "skater",
+        "question_id": 822,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319558.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 823,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411389.jpg",
+        "question": "Who is jumping?",
+        "answer": "girl",
+        "question_id": 824,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2316782.jpg",
+        "question": "Who is dressed in black?",
+        "answer": "boy",
+        "question_id": 825,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407284.jpg",
+        "question": "What is the man doing?",
+        "answer": "brushing teeth",
+        "question_id": 826,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2322282.jpg",
+        "question": "Who is eating?",
+        "answer": "boy",
+        "question_id": 827,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404030.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 828,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363539.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 829,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2631.jpg",
+        "question": "What is the small animal doing?",
+        "answer": "lying",
+        "question_id": 830,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392845.jpg",
+        "question": "What is the person to the left of the people doing?",
+        "answer": "talking",
+        "question_id": 831,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362327.jpg",
+        "question": "Who in the scene is standing?",
+        "answer": "umpire",
+        "question_id": 832,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413817.jpg",
+        "question": "What is the man doing?",
+        "answer": "standing",
+        "question_id": 833,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2359715.jpg",
+        "question": "Who in the picture is sitting?",
+        "answer": "child",
+        "question_id": 834,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404844.jpg",
+        "question": "What is the dog doing, jumping or sitting?",
+        "answer": "jumping",
+        "question_id": 835,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384074.jpg",
+        "question": "Who is playing?",
+        "answer": "woman",
+        "question_id": 836,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410011.jpg",
+        "question": "Who is standing?",
+        "answer": "women",
+        "question_id": 837,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384023.jpg",
+        "question": "What is the male elephant doing?",
+        "answer": "eating",
+        "question_id": 838,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363826.jpg",
+        "question": "Who is riding?",
+        "answer": "skateboarder",
+        "question_id": 839,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2366663.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 840,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/150391.jpg",
+        "question": "Who in this scene is sitting?",
+        "answer": "man",
+        "question_id": 841,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404396.jpg",
+        "question": "Who is standing?",
+        "answer": "girl",
+        "question_id": 842,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399206.jpg",
+        "question": "What is the person inside the cockpit doing?",
+        "answer": "bending",
+        "question_id": 843,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398791.jpg",
+        "question": "Who is dressed in white?",
+        "answer": "batter",
+        "question_id": 844,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2341300.jpg",
+        "question": "What is the man doing?",
+        "answer": "surfing",
+        "question_id": 845,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2324445.jpg",
+        "question": "Who in this picture is running?",
+        "answer": "boy",
+        "question_id": 846,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413588.jpg",
+        "question": "Who is talking?",
+        "answer": "people",
+        "question_id": 847,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395949.jpg",
+        "question": "What is the man on the skateboard doing?",
+        "answer": "skateboarding",
+        "question_id": 848,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2360763.jpg",
+        "question": "What do you think is the animal that looks white and brown doing?",
+        "answer": "lying",
+        "question_id": 849,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395973.jpg",
+        "question": "What is the batter doing?",
+        "answer": "playing",
+        "question_id": 850,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2382386.jpg",
+        "question": "Who is dressed in black?",
+        "answer": "woman",
+        "question_id": 851,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378698.jpg",
+        "question": "What is the person to the left of the pot doing?",
+        "answer": "cooking",
+        "question_id": 852,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412339.jpg",
+        "question": "Who is waiting?",
+        "answer": "player",
+        "question_id": 853,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2416484.jpg",
+        "question": "What is the boy doing?",
+        "answer": "brushing teeth",
+        "question_id": 854,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2317278.jpg",
+        "question": "What is the man doing?",
+        "answer": "sitting",
+        "question_id": 855,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2322185.jpg",
+        "question": "What's the man doing?",
+        "answer": "snowboarding",
+        "question_id": 856,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2348601.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 857,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384711.jpg",
+        "question": "Who is running?",
+        "answer": "catcher",
+        "question_id": 858,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2376541.jpg",
+        "question": "What is the dog doing?",
+        "answer": "sleeping",
+        "question_id": 859,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2376660.jpg",
+        "question": "What is the Pikachu doing?",
+        "answer": "lying",
+        "question_id": 860,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319241.jpg",
+        "question": "What is the white animal doing?",
+        "answer": "lying",
+        "question_id": 861,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2415077.jpg",
+        "question": "Who is walking?",
+        "answer": "player",
+        "question_id": 862,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2343460.jpg",
+        "question": "Who is playing basketball?",
+        "answer": "men",
+        "question_id": 863,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2334989.jpg",
+        "question": "What is the man doing?",
+        "answer": "skiing",
+        "question_id": 864,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2325480.jpg",
+        "question": "What is the man with the hat doing, waiting or having meeting?",
+        "answer": "waiting",
+        "question_id": 865,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403101.jpg",
+        "question": "What is the animal in the grass doing?",
+        "answer": "staring",
+        "question_id": 866,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379178.jpg",
+        "question": "Who in the image is sitting?",
+        "answer": "woman",
+        "question_id": 867,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401073.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 868,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2343728.jpg",
+        "question": "Who is walking?",
+        "answer": "woman",
+        "question_id": 869,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342125.jpg",
+        "question": "Who is lying?",
+        "answer": "children",
+        "question_id": 870,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402286.jpg",
+        "question": "What is the dog doing?",
+        "answer": "jumping",
+        "question_id": 871,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413380.jpg",
+        "question": "Who is dressed in white?",
+        "answer": "woman",
+        "question_id": 872,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384063.jpg",
+        "question": "Who is dressed in black?",
+        "answer": "man",
+        "question_id": 873,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2415203.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 874,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/497938.jpg",
+        "question": "Who is skiing?",
+        "answer": "man",
+        "question_id": 875,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386698.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 876,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2367313.jpg",
+        "question": "Who is swimming?",
+        "answer": "man",
+        "question_id": 877,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2357852.jpg",
+        "question": "Who is drinking?",
+        "answer": "child",
+        "question_id": 878,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403546.jpg",
+        "question": "Who is playing?",
+        "answer": "girl",
+        "question_id": 879,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393739.jpg",
+        "question": "What is the man that is to the left of the mirror doing?",
+        "answer": "playing",
+        "question_id": 880,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408048.jpg",
+        "question": "What's the woman doing?",
+        "answer": "playing",
+        "question_id": 881,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362787.jpg",
+        "question": "Who is playing?",
+        "answer": "girl",
+        "question_id": 882,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407485.jpg",
+        "question": "Who in the image is standing?",
+        "answer": "skier",
+        "question_id": 883,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372563.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 884,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2356833.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 885,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2370859.jpg",
+        "question": "What is the cat doing?",
+        "answer": "resting",
+        "question_id": 886,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350743.jpg",
+        "question": "What is the gray animal doing?",
+        "answer": "walking",
+        "question_id": 887,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2344245.jpg",
+        "question": "What are the people to the right of the man doing, swimming or snowboarding?",
+        "answer": "swimming",
+        "question_id": 888,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380658.jpg",
+        "question": "What is the person that is skating doing?",
+        "answer": "jumping",
+        "question_id": 889,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390743.jpg",
+        "question": "What is the person that is not old doing?",
+        "answer": "skating",
+        "question_id": 890,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388708.jpg",
+        "question": "What is the man doing?",
+        "answer": "snowboarding",
+        "question_id": 891,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390488.jpg",
+        "question": "Who is sitting?",
+        "answer": "girl",
+        "question_id": 892,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373590.jpg",
+        "question": "Who is walking?",
+        "answer": "woman",
+        "question_id": 893,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2383884.jpg",
+        "question": "Who is skiing?",
+        "answer": "men",
+        "question_id": 894,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401166.jpg",
+        "question": "What is the man doing?",
+        "answer": "eating",
+        "question_id": 895,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405197.jpg",
+        "question": "What is the bear doing?",
+        "answer": "walking",
+        "question_id": 896,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401073.jpg",
+        "question": "What is that man doing?",
+        "answer": "jumping",
+        "question_id": 897,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400599.jpg",
+        "question": "Who is shaking hands?",
+        "answer": "men",
+        "question_id": 898,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400262.jpg",
+        "question": "What is he doing?",
+        "answer": "skating",
+        "question_id": 899,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397009.jpg",
+        "question": "Who is sitting?",
+        "answer": "boy",
+        "question_id": 900,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388904.jpg",
+        "question": "Who is playing games?",
+        "answer": "people",
+        "question_id": 901,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388301.jpg",
+        "question": "What is the person on the bench doing?",
+        "answer": "looking down",
+        "question_id": 902,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408800.jpg",
+        "question": "What is the skater doing?",
+        "answer": "riding",
+        "question_id": 903,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/150295.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 904,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2351714.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 905,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2383023.jpg",
+        "question": "What are the geese behind the sheep doing?",
+        "answer": "eating",
+        "question_id": 906,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386903.jpg",
+        "question": "What is the woman in front of the trees doing?",
+        "answer": "looking up",
+        "question_id": 907,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391960.jpg",
+        "question": "Who in the picture is walking?",
+        "answer": "boy",
+        "question_id": 908,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319825.jpg",
+        "question": "Who is staring?",
+        "answer": "woman",
+        "question_id": 909,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390108.jpg",
+        "question": "What are the people to the right of the beer doing?",
+        "answer": "eating",
+        "question_id": 910,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2320864.jpg",
+        "question": "What's the player doing?",
+        "answer": "running",
+        "question_id": 911,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397825.jpg",
+        "question": "Who is dressed in pink?",
+        "answer": "girl",
+        "question_id": 912,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2357448.jpg",
+        "question": "Who is standing?",
+        "answer": "lady",
+        "question_id": 913,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398398.jpg",
+        "question": "What is the guy doing?",
+        "answer": "walking",
+        "question_id": 914,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/61590.jpg",
+        "question": "Who is skiing?",
+        "answer": "boy",
+        "question_id": 915,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399408.jpg",
+        "question": "What is the woman doing?",
+        "answer": "running",
+        "question_id": 916,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410065.jpg",
+        "question": "Who is standing?",
+        "answer": "girl",
+        "question_id": 917,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385322.jpg",
+        "question": "What's she doing?",
+        "answer": "talking",
+        "question_id": 918,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390633.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 919,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403180.jpg",
+        "question": "What is the person that is to the left of the woman doing?",
+        "answer": "waiting",
+        "question_id": 920,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2320074.jpg",
+        "question": "What is the man doing?",
+        "answer": "standing",
+        "question_id": 921,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400255.jpg",
+        "question": "What is the man near the kite doing?",
+        "answer": "running",
+        "question_id": 922,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390097.jpg",
+        "question": "What is he doing, skateboarding or snowboarding?",
+        "answer": "skateboarding",
+        "question_id": 923,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373271.jpg",
+        "question": "Who is eating?",
+        "answer": "boy",
+        "question_id": 924,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406865.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 925,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399821.jpg",
+        "question": "Who is running?",
+        "answer": "girl",
+        "question_id": 926,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2341361.jpg",
+        "question": "What is that cat doing?",
+        "answer": "waiting",
+        "question_id": 927,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2360487.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 928,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2375514.jpg",
+        "question": "What is the man doing?",
+        "answer": "riding",
+        "question_id": 929,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391042.jpg",
+        "question": "Who is sitting?",
+        "answer": "women",
+        "question_id": 930,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407294.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 931,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405249.jpg",
+        "question": "Who is sitting?",
+        "answer": "girl",
+        "question_id": 932,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2325851.jpg",
+        "question": "What are the people to the left of the man doing?",
+        "answer": "reading",
+        "question_id": 933,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384812.jpg",
+        "question": "Who is running?",
+        "answer": "boy",
+        "question_id": 934,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2336511.jpg",
+        "question": "Who is skateboarding?",
+        "answer": "guy",
+        "question_id": 935,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2347528.jpg",
+        "question": "Who in this photo is playing?",
+        "answer": "man",
+        "question_id": 936,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384063.jpg",
+        "question": "What is the kid near the fence doing, skiing or skateboarding?",
+        "answer": "skiing",
+        "question_id": 937,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363323.jpg",
+        "question": "What is that man doing?",
+        "answer": "surfing",
+        "question_id": 938,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2321556.jpg",
+        "question": "What is she doing?",
+        "answer": "taking a picture",
+        "question_id": 939,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/713928.jpg",
+        "question": "What is the girl to the right of the person doing?",
+        "answer": "standing",
+        "question_id": 940,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2361815.jpg",
+        "question": "What is the man doing?",
+        "answer": "talking",
+        "question_id": 941,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406620.jpg",
+        "question": "What is the person doing?",
+        "answer": "looking down",
+        "question_id": 942,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2335384.jpg",
+        "question": "What is the woman that is to the right of the glasses doing?",
+        "answer": "talking",
+        "question_id": 943,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/1507.jpg",
+        "question": "Who is walking?",
+        "answer": "pedestrians",
+        "question_id": 944,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389662.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 945,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402492.jpg",
+        "question": "What is the dark cat doing?",
+        "answer": "resting",
+        "question_id": 946,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386992.jpg",
+        "question": "What is the black horse doing?",
+        "answer": "running",
+        "question_id": 947,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2369531.jpg",
+        "question": "What are the girls to the left of the other girls doing?",
+        "answer": "waiting",
+        "question_id": 948,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379906.jpg",
+        "question": "What is the boy doing?",
+        "answer": "jumping",
+        "question_id": 949,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371822.jpg",
+        "question": "What is the boy doing?",
+        "answer": "brushing teeth",
+        "question_id": 950,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388063.jpg",
+        "question": "Who is sitting?",
+        "answer": "lady",
+        "question_id": 951,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350709.jpg",
+        "question": "Who is looking at the camera?",
+        "answer": "woman",
+        "question_id": 952,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2349949.jpg",
+        "question": "What is the girl to the left of the frisbee doing, standing or jumping?",
+        "answer": "jumping",
+        "question_id": 953,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2345961.jpg",
+        "question": "Who is skiing?",
+        "answer": "man",
+        "question_id": 954,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405925.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 955,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411248.jpg",
+        "question": "What is the woman to the right of the children doing?",
+        "answer": "standing",
+        "question_id": 956,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2415035.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 957,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/713580.jpg",
+        "question": "What are the people to the left of the other person doing?",
+        "answer": "waiting",
+        "question_id": 958,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2317567.jpg",
+        "question": "Who is playing?",
+        "answer": "batter",
+        "question_id": 959,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2394821.jpg",
+        "question": "Who is standing?",
+        "answer": "player",
+        "question_id": 960,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371568.jpg",
+        "question": "What is the person that is skiing doing?",
+        "answer": "posing",
+        "question_id": 961,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342125.jpg",
+        "question": "What are the children doing?",
+        "answer": "lying",
+        "question_id": 962,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2341067.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 963,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398946.jpg",
+        "question": "What is the person doing?",
+        "answer": "reading",
+        "question_id": 964,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2365049.jpg",
+        "question": "What is she doing, standing or pointing?",
+        "answer": "standing",
+        "question_id": 965,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2340293.jpg",
+        "question": "Who is standing?",
+        "answer": "cyclist",
+        "question_id": 966,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379401.jpg",
+        "question": "What's the bear doing?",
+        "answer": "resting",
+        "question_id": 967,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378833.jpg",
+        "question": "Who in this photo is standing?",
+        "answer": "boy",
+        "question_id": 968,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2326613.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 969,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2415204.jpg",
+        "question": "Who is eating?",
+        "answer": "woman",
+        "question_id": 970,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379234.jpg",
+        "question": "Who is playing?",
+        "answer": "child",
+        "question_id": 971,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2353781.jpg",
+        "question": "What is the dog doing?",
+        "answer": "jumping",
+        "question_id": 972,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371822.jpg",
+        "question": "Who is brushing teeth?",
+        "answer": "boy",
+        "question_id": 973,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2383122.jpg",
+        "question": "What's she doing?",
+        "answer": "skiing",
+        "question_id": 974,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2344245.jpg",
+        "question": "What is the child that is to the left of the man doing, running or walking?",
+        "answer": "walking",
+        "question_id": 975,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385481.jpg",
+        "question": "What's the man doing?",
+        "answer": "sitting",
+        "question_id": 976,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371387.jpg",
+        "question": "What do you think is she doing?",
+        "answer": "taking bath",
+        "question_id": 977,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2348288.jpg",
+        "question": "What is the small dog doing?",
+        "answer": "playing",
+        "question_id": 978,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2358945.jpg",
+        "question": "What is he doing?",
+        "answer": "standing",
+        "question_id": 979,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400302.jpg",
+        "question": "What is the man doing?",
+        "answer": "playing",
+        "question_id": 980,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397341.jpg",
+        "question": "Who in the scene is dressed in blue?",
+        "answer": "baby",
+        "question_id": 981,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371987.jpg",
+        "question": "Who is playing tennis?",
+        "answer": "boy",
+        "question_id": 982,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409047.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 983,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372614.jpg",
+        "question": "What is the man in front of the sand doing?",
+        "answer": "eating",
+        "question_id": 984,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411222.jpg",
+        "question": "Who is standing?",
+        "answer": "boy",
+        "question_id": 985,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2349949.jpg",
+        "question": "Who is jumping?",
+        "answer": "girl",
+        "question_id": 986,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403045.jpg",
+        "question": "What is the person that looks young doing?",
+        "answer": "lying",
+        "question_id": 987,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392147.jpg",
+        "question": "What is the man to the right of the people doing?",
+        "answer": "drinking",
+        "question_id": 988,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397545.jpg",
+        "question": "Who is facing left?",
+        "answer": "elephant",
+        "question_id": 989,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2368926.jpg",
+        "question": "What is the surfer that is waiting doing?",
+        "answer": "standing",
+        "question_id": 990,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396393.jpg",
+        "question": "Who is walking?",
+        "answer": "woman",
+        "question_id": 991,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2365375.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 992,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371404.jpg",
+        "question": "Who is dressed in blue?",
+        "answer": "boy",
+        "question_id": 993,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2335127.jpg",
+        "question": "Who is taking a picture?",
+        "answer": "man",
+        "question_id": 994,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406339.jpg",
+        "question": "Who is sitting?",
+        "answer": "baseball players",
+        "question_id": 995,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389793.jpg",
+        "question": "What's the dog doing?",
+        "answer": "playing",
+        "question_id": 996,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2367379.jpg",
+        "question": "Who is sitting?",
+        "answer": "people",
+        "question_id": 997,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388301.jpg",
+        "question": "What is the man doing?",
+        "answer": "looking down",
+        "question_id": 998,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2324941.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 999,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2382502.jpg",
+        "question": "What is the large animal doing?",
+        "answer": "jumping",
+        "question_id": 1000,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407415.jpg",
+        "question": "What is the guy doing?",
+        "answer": "waiting",
+        "question_id": 1001,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318963.jpg",
+        "question": "Who is sitting?",
+        "answer": "people",
+        "question_id": 1002,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390580.jpg",
+        "question": "Who is posing?",
+        "answer": "woman",
+        "question_id": 1003,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405332.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1004,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392845.jpg",
+        "question": "Who is walking?",
+        "answer": "child",
+        "question_id": 1005,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384407.jpg",
+        "question": "Who is resting?",
+        "answer": "man",
+        "question_id": 1006,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411509.jpg",
+        "question": "Who is walking?",
+        "answer": "girl",
+        "question_id": 1007,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380691.jpg",
+        "question": "What is the man to the right of the tennis racket doing?",
+        "answer": "playing",
+        "question_id": 1008,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2359470.jpg",
+        "question": "Who is riding?",
+        "answer": "man",
+        "question_id": 1009,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403546.jpg",
+        "question": "What is this girl doing, looking down or playing?",
+        "answer": "playing",
+        "question_id": 1010,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384063.jpg",
+        "question": "Who in the image is talking?",
+        "answer": "people",
+        "question_id": 1011,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385013.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 1012,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380720.jpg",
+        "question": "What is the boy doing?",
+        "answer": "posing",
+        "question_id": 1013,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2382140.jpg",
+        "question": "What is the man to the right of the people doing?",
+        "answer": "walking",
+        "question_id": 1014,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380779.jpg",
+        "question": "What is the young man doing?",
+        "answer": "skateboarding",
+        "question_id": 1015,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414164.jpg",
+        "question": "Who is walking?",
+        "answer": "man",
+        "question_id": 1016,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2333517.jpg",
+        "question": "What is the man doing?",
+        "answer": "surfing",
+        "question_id": 1017,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373259.jpg",
+        "question": "What is the man to the left of the wine glass doing?",
+        "answer": "standing",
+        "question_id": 1018,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2359504.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 1019,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406643.jpg",
+        "question": "What is the boy doing?",
+        "answer": "waiting",
+        "question_id": 1020,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404320.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1021,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362398.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 1022,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398164.jpg",
+        "question": "What is the man doing?",
+        "answer": "playing",
+        "question_id": 1023,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/341.jpg",
+        "question": "Who is sitting?",
+        "answer": "people",
+        "question_id": 1024,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396174.jpg",
+        "question": "Who is jumping?",
+        "answer": "boy",
+        "question_id": 1025,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2337002.jpg",
+        "question": "Who is sitting?",
+        "answer": "people",
+        "question_id": 1026,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2358947.jpg",
+        "question": "What is the bull doing, running or lying?",
+        "answer": "lying",
+        "question_id": 1027,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/21.jpg",
+        "question": "What is the woman doing?",
+        "answer": "pointing",
+        "question_id": 1028,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2368926.jpg",
+        "question": "What is the boy doing?",
+        "answer": "surfing",
+        "question_id": 1029,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/713018.jpg",
+        "question": "What is the boy that is to the left of the woman doing?",
+        "answer": "bending",
+        "question_id": 1030,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412648.jpg",
+        "question": "What is the man to the left of the cone doing?",
+        "answer": "playing",
+        "question_id": 1031,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2326912.jpg",
+        "question": "What is the cat doing?",
+        "answer": "lying",
+        "question_id": 1032,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2320864.jpg",
+        "question": "Who is running?",
+        "answer": "player",
+        "question_id": 1033,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2368884.jpg",
+        "question": "What is the man doing?",
+        "answer": "waiting",
+        "question_id": 1034,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2354281.jpg",
+        "question": "What is he doing?",
+        "answer": "looking up",
+        "question_id": 1035,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2374759.jpg",
+        "question": "What's the man doing?",
+        "answer": "skateboarding",
+        "question_id": 1036,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395326.jpg",
+        "question": "What is the young animal doing?",
+        "answer": "walking",
+        "question_id": 1037,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2356399.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 1038,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373592.jpg",
+        "question": "Who is standing?",
+        "answer": "guy",
+        "question_id": 1039,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2364151.jpg",
+        "question": "What is the man doing?",
+        "answer": "riding",
+        "question_id": 1040,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391835.jpg",
+        "question": "What's the man doing?",
+        "answer": "jumping",
+        "question_id": 1041,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384097.jpg",
+        "question": "Who is facing left?",
+        "answer": "zebra",
+        "question_id": 1042,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362153.jpg",
+        "question": "What is the cat doing?",
+        "answer": "standing",
+        "question_id": 1043,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401489.jpg",
+        "question": "What is the kitten doing?",
+        "answer": "staring",
+        "question_id": 1044,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386297.jpg",
+        "question": "Who is waiting?",
+        "answer": "people",
+        "question_id": 1045,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402114.jpg",
+        "question": "Who is riding?",
+        "answer": "woman",
+        "question_id": 1046,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2383239.jpg",
+        "question": "Who is walking?",
+        "answer": "lady",
+        "question_id": 1047,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406101.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1048,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372130.jpg",
+        "question": "What are the cats doing?",
+        "answer": "lying",
+        "question_id": 1049,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2366671.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1050,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2338368.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1051,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2338875.jpg",
+        "question": "Who is looking down?",
+        "answer": "skier",
+        "question_id": 1052,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384006.jpg",
+        "question": "What's the girl doing?",
+        "answer": "standing",
+        "question_id": 1053,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2361690.jpg",
+        "question": "Who is waiting?",
+        "answer": "catcher",
+        "question_id": 1054,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378834.jpg",
+        "question": "Who is standing?",
+        "answer": "boy",
+        "question_id": 1055,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2324445.jpg",
+        "question": "What's the boy doing?",
+        "answer": "running",
+        "question_id": 1056,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2316535.jpg",
+        "question": "What is the person that is to the left of the woman doing?",
+        "answer": "taking a picture",
+        "question_id": 1057,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2383807.jpg",
+        "question": "What's the man doing?",
+        "answer": "walking",
+        "question_id": 1058,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362204.jpg",
+        "question": "What is the bear doing?",
+        "answer": "taking bath",
+        "question_id": 1059,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2722.jpg",
+        "question": "Who is walking?",
+        "answer": "man",
+        "question_id": 1060,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2382386.jpg",
+        "question": "Who is playing?",
+        "answer": "woman",
+        "question_id": 1061,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408044.jpg",
+        "question": "Who is playing basketball?",
+        "answer": "player",
+        "question_id": 1062,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412204.jpg",
+        "question": "What is the girl to the right of the candle doing?",
+        "answer": "eating",
+        "question_id": 1063,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363826.jpg",
+        "question": "Who is jumping?",
+        "answer": "skateboarder",
+        "question_id": 1064,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384847.jpg",
+        "question": "Who is running?",
+        "answer": "people",
+        "question_id": 1065,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2376307.jpg",
+        "question": "What is the person to the right of the man doing?",
+        "answer": "skiing",
+        "question_id": 1066,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398612.jpg",
+        "question": "What is the dog doing?",
+        "answer": "resting",
+        "question_id": 1067,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402947.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1068,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386511.jpg",
+        "question": "What is the man doing?",
+        "answer": "bending",
+        "question_id": 1069,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414419.jpg",
+        "question": "What is the bear doing?",
+        "answer": "taking bath",
+        "question_id": 1070,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378967.jpg",
+        "question": "What is the large animal doing?",
+        "answer": "running",
+        "question_id": 1071,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2357725.jpg",
+        "question": "What is the woman doing?",
+        "answer": "playing",
+        "question_id": 1072,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407846.jpg",
+        "question": "What is he doing, staring or playing?",
+        "answer": "playing",
+        "question_id": 1073,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2356227.jpg",
+        "question": "What is he doing?",
+        "answer": "eating",
+        "question_id": 1074,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2316099.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1075,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319353.jpg",
+        "question": "Who is playing?",
+        "answer": "girl",
+        "question_id": 1076,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2343256.jpg",
+        "question": "Who is dressed in pink?",
+        "answer": "girls",
+        "question_id": 1077,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2316705.jpg",
+        "question": "Who is waiting?",
+        "answer": "people",
+        "question_id": 1078,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318261.jpg",
+        "question": "What is the man to the left of the picture doing?",
+        "answer": "taking a picture",
+        "question_id": 1079,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399104.jpg",
+        "question": "Who in this image is playing?",
+        "answer": "children",
+        "question_id": 1080,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2358894.jpg",
+        "question": "What is the person in front of the door doing?",
+        "answer": "playing",
+        "question_id": 1081,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397600.jpg",
+        "question": "Who in the photo is posing?",
+        "answer": "boy",
+        "question_id": 1082,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/1159484.jpg",
+        "question": "Who in this picture is walking?",
+        "answer": "woman",
+        "question_id": 1083,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319853.jpg",
+        "question": "What is the man doing?",
+        "answer": "taking a photo",
+        "question_id": 1084,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371169.jpg",
+        "question": "What is the brown animal doing?",
+        "answer": "jumping",
+        "question_id": 1085,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414298.jpg",
+        "question": "Who is waiting?",
+        "answer": "passengers",
+        "question_id": 1086,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410727.jpg",
+        "question": "Who is standing?",
+        "answer": "policeman",
+        "question_id": 1087,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380291.jpg",
+        "question": "What is the person to the left of the telephone doing?",
+        "answer": "taking a picture",
+        "question_id": 1088,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400784.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1089,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384051.jpg",
+        "question": "What is the man doing?",
+        "answer": "waiting",
+        "question_id": 1090,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403531.jpg",
+        "question": "Who is surfing?",
+        "answer": "man",
+        "question_id": 1091,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384407.jpg",
+        "question": "What is the man doing?",
+        "answer": "resting",
+        "question_id": 1092,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405676.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1093,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2394367.jpg",
+        "question": "What is the dog doing?",
+        "answer": "standing",
+        "question_id": 1094,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373930.jpg",
+        "question": "What is the cow doing?",
+        "answer": "lying",
+        "question_id": 1095,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363959.jpg",
+        "question": "Who is waiting?",
+        "answer": "player",
+        "question_id": 1096,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408009.jpg",
+        "question": "Who in the photo is standing?",
+        "answer": "woman",
+        "question_id": 1097,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2317680.jpg",
+        "question": "What is the man doing?",
+        "answer": "drinking",
+        "question_id": 1098,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342715.jpg",
+        "question": "Who is jumping?",
+        "answer": "skier",
+        "question_id": 1099,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378698.jpg",
+        "question": "Who is sitting?",
+        "answer": "child",
+        "question_id": 1100,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2377695.jpg",
+        "question": "What is the dog near the frisbee doing?",
+        "answer": "looking up",
+        "question_id": 1101,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2357852.jpg",
+        "question": "Who is sitting?",
+        "answer": "child",
+        "question_id": 1102,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/3931.jpg",
+        "question": "Who is talking?",
+        "answer": "people",
+        "question_id": 1103,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402639.jpg",
+        "question": "Who is playing?",
+        "answer": "children",
+        "question_id": 1104,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2366157.jpg",
+        "question": "What is the horse doing?",
+        "answer": "walking",
+        "question_id": 1105,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414300.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1106,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362672.jpg",
+        "question": "Who is jumping?",
+        "answer": "boy",
+        "question_id": 1107,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2355947.jpg",
+        "question": "Who is looking down?",
+        "answer": "woman",
+        "question_id": 1108,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391784.jpg",
+        "question": "What is the horse doing?",
+        "answer": "jumping",
+        "question_id": 1109,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2345600.jpg",
+        "question": "Who is surfing?",
+        "answer": "guy",
+        "question_id": 1110,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2331321.jpg",
+        "question": "Who is walking?",
+        "answer": "lady",
+        "question_id": 1111,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400775.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1112,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2322282.jpg",
+        "question": "What is the person on the bench doing?",
+        "answer": "eating",
+        "question_id": 1113,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2352259.jpg",
+        "question": "Who is dressed in red?",
+        "answer": "man",
+        "question_id": 1114,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412554.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 1115,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408294.jpg",
+        "question": "Who is waiting?",
+        "answer": "people",
+        "question_id": 1116,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398398.jpg",
+        "question": "What is the person with the dog doing?",
+        "answer": "walking",
+        "question_id": 1117,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373399.jpg",
+        "question": "What is the bear doing?",
+        "answer": "walking",
+        "question_id": 1118,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384357.jpg",
+        "question": "What is the man doing?",
+        "answer": "surfing",
+        "question_id": 1119,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405174.jpg",
+        "question": "What are the people behind the motorbike doing?",
+        "answer": "talking",
+        "question_id": 1120,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406643.jpg",
+        "question": "Who is waiting?",
+        "answer": "boy",
+        "question_id": 1121,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2336817.jpg",
+        "question": "What is the person that is sitting-down doing?",
+        "answer": "riding",
+        "question_id": 1122,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393401.jpg",
+        "question": "Who is standing?",
+        "answer": "batter",
+        "question_id": 1123,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381259.jpg",
+        "question": "What is the man doing?",
+        "answer": "looking down",
+        "question_id": 1124,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391042.jpg",
+        "question": "Who is eating?",
+        "answer": "women",
+        "question_id": 1125,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414341.jpg",
+        "question": "Who is making a face?",
+        "answer": "child",
+        "question_id": 1126,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404878.jpg",
+        "question": "What is the young person doing?",
+        "answer": "eating",
+        "question_id": 1127,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/713064.jpg",
+        "question": "Who is standing?",
+        "answer": "child",
+        "question_id": 1128,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2383963.jpg",
+        "question": "What is the surfer in the ocean doing?",
+        "answer": "swimming",
+        "question_id": 1129,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350003.jpg",
+        "question": "Who in this photo is standing?",
+        "answer": "guy",
+        "question_id": 1130,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405229.jpg",
+        "question": "Who is standing?",
+        "answer": "worker",
+        "question_id": 1131,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405414.jpg",
+        "question": "Who is dressed in blue?",
+        "answer": "man",
+        "question_id": 1132,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392868.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1133,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2394763.jpg",
+        "question": "What is she doing?",
+        "answer": "brushing teeth",
+        "question_id": 1134,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2316465.jpg",
+        "question": "Who is dressed in pink?",
+        "answer": "woman",
+        "question_id": 1135,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2346326.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 1136,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2416885.jpg",
+        "question": "What is the man doing?",
+        "answer": "surfing",
+        "question_id": 1137,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412648.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 1138,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393381.jpg",
+        "question": "What is the girl doing?",
+        "answer": "walking",
+        "question_id": 1139,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2317588.jpg",
+        "question": "Who is playing?",
+        "answer": "people",
+        "question_id": 1140,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398665.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1141,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363959.jpg",
+        "question": "Who is bending?",
+        "answer": "player",
+        "question_id": 1142,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2354794.jpg",
+        "question": "What is the person doing?",
+        "answer": "bending",
+        "question_id": 1143,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350006.jpg",
+        "question": "What is the small boy doing?",
+        "answer": "walking",
+        "question_id": 1144,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396578.jpg",
+        "question": "Who is looking down?",
+        "answer": "woman",
+        "question_id": 1145,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393381.jpg",
+        "question": "What is the boy that is to the right of the child doing?",
+        "answer": "skiing",
+        "question_id": 1146,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2375271.jpg",
+        "question": "Who is playing tennis?",
+        "answer": "player",
+        "question_id": 1147,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400255.jpg",
+        "question": "What is the man doing?",
+        "answer": "running",
+        "question_id": 1148,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2367219.jpg",
+        "question": "Who is standing?",
+        "answer": "catcher",
+        "question_id": 1149,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409036.jpg",
+        "question": "Who in the photograph is walking?",
+        "answer": "child",
+        "question_id": 1150,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388347.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 1151,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350062.jpg",
+        "question": "What is the person doing?",
+        "answer": "taking a picture",
+        "question_id": 1152,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362616.jpg",
+        "question": "Who is skiing?",
+        "answer": "people",
+        "question_id": 1153,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380022.jpg",
+        "question": "What is the dog doing?",
+        "answer": "lying",
+        "question_id": 1154,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362991.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1155,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391685.jpg",
+        "question": "What is the black zebra doing?",
+        "answer": "eating",
+        "question_id": 1156,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379350.jpg",
+        "question": "What is the man doing?",
+        "answer": "crouching",
+        "question_id": 1157,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/150356.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1158,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2353781.jpg",
+        "question": "What is the gold animal doing?",
+        "answer": "jumping",
+        "question_id": 1159,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404683.jpg",
+        "question": "Who is playing tennis?",
+        "answer": "girl",
+        "question_id": 1160,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401019.jpg",
+        "question": "Who is playing soccer?",
+        "answer": "boy",
+        "question_id": 1161,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412339.jpg",
+        "question": "Who is walking?",
+        "answer": "player",
+        "question_id": 1162,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363223.jpg",
+        "question": "What's he doing?",
+        "answer": "looking down",
+        "question_id": 1163,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384397.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1164,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407081.jpg",
+        "question": "What are the animals near the post doing, walking or lying?",
+        "answer": "lying",
+        "question_id": 1165,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406158.jpg",
+        "question": "What's the man doing?",
+        "answer": "performing trick",
+        "question_id": 1166,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2346159.jpg",
+        "question": "Who is playing frisbee?",
+        "answer": "girl",
+        "question_id": 1167,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410065.jpg",
+        "question": "What's the girl doing?",
+        "answer": "posing",
+        "question_id": 1168,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400075.jpg",
+        "question": "What is the animal that looks black and white doing?",
+        "answer": "walking",
+        "question_id": 1169,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373158.jpg",
+        "question": "What is the dog doing?",
+        "answer": "running",
+        "question_id": 1170,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2356577.jpg",
+        "question": "What is the woman doing?",
+        "answer": "playing",
+        "question_id": 1171,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363539.jpg",
+        "question": "Who is waiting?",
+        "answer": "woman",
+        "question_id": 1172,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413159.jpg",
+        "question": "Who is standing?",
+        "answer": "boy",
+        "question_id": 1173,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373981.jpg",
+        "question": "What's the man doing?",
+        "answer": "bending",
+        "question_id": 1174,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2358111.jpg",
+        "question": "What is the child doing?",
+        "answer": "waiting",
+        "question_id": 1175,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/370.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1176,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386979.jpg",
+        "question": "Who is running?",
+        "answer": "man",
+        "question_id": 1177,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407655.jpg",
+        "question": "What is he doing?",
+        "answer": "playing",
+        "question_id": 1178,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/23.jpg",
+        "question": "Who is talking?",
+        "answer": "girl",
+        "question_id": 1179,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378916.jpg",
+        "question": "What is the cat doing?",
+        "answer": "sleeping",
+        "question_id": 1180,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412511.jpg",
+        "question": "What is the bird to the left of the other bird doing?",
+        "answer": "standing",
+        "question_id": 1181,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395097.jpg",
+        "question": "What are the people to the left of the man doing?",
+        "answer": "walking",
+        "question_id": 1182,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398401.jpg",
+        "question": "Who is walking?",
+        "answer": "man",
+        "question_id": 1183,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413588.jpg",
+        "question": "What are the people that are talking doing?",
+        "answer": "running",
+        "question_id": 1184,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414593.jpg",
+        "question": "What is the man that is to the right of the woman doing?",
+        "answer": "taking a picture",
+        "question_id": 1185,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405414.jpg",
+        "question": "What is the man doing?",
+        "answer": "snowboarding",
+        "question_id": 1186,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2365512.jpg",
+        "question": "Who is walking?",
+        "answer": "woman",
+        "question_id": 1187,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390970.jpg",
+        "question": "Who is looking down?",
+        "answer": "giraffe",
+        "question_id": 1188,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379292.jpg",
+        "question": "Who is taking a picture?",
+        "answer": "girl",
+        "question_id": 1189,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393164.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1190,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390101.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1191,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379178.jpg",
+        "question": "Who is talking?",
+        "answer": "woman",
+        "question_id": 1192,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2353206.jpg",
+        "question": "What is the man doing?",
+        "answer": "cooking",
+        "question_id": 1193,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/1289.jpg",
+        "question": "Who in this picture is walking?",
+        "answer": "lady",
+        "question_id": 1194,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404536.jpg",
+        "question": "What is this man doing, staring or talking?",
+        "answer": "talking",
+        "question_id": 1195,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378689.jpg",
+        "question": "Who is waiting?",
+        "answer": "catcher",
+        "question_id": 1196,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2369595.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1197,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2398791.jpg",
+        "question": "Who is dressed in red?",
+        "answer": "catcher",
+        "question_id": 1198,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395254.jpg",
+        "question": "What is the person doing?",
+        "answer": "playing",
+        "question_id": 1199,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2370549.jpg",
+        "question": "What is the giraffe that is not short doing?",
+        "answer": "eating",
+        "question_id": 1200,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2367061.jpg",
+        "question": "What is the animal in the zoo doing?",
+        "answer": "resting",
+        "question_id": 1201,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391285.jpg",
+        "question": "Who is dressed in black?",
+        "answer": "customer",
+        "question_id": 1202,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397306.jpg",
+        "question": "What is the dog doing?",
+        "answer": "lying",
+        "question_id": 1203,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342323.jpg",
+        "question": "What's the woman doing?",
+        "answer": "walking",
+        "question_id": 1204,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2355250.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1205,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392888.jpg",
+        "question": "What is the person that is jumping doing?",
+        "answer": "skiing",
+        "question_id": 1206,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350644.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 1207,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2344955.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1208,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372032.jpg",
+        "question": "Who is skateboarding?",
+        "answer": "boy",
+        "question_id": 1209,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2356967.jpg",
+        "question": "What is the man in front of the people doing?",
+        "answer": "skiing",
+        "question_id": 1210,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386682.jpg",
+        "question": "What is she doing?",
+        "answer": "playing",
+        "question_id": 1211,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407938.jpg",
+        "question": "Who is riding?",
+        "answer": "boy",
+        "question_id": 1212,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408033.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1213,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411389.jpg",
+        "question": "What is she doing, sitting or jumping?",
+        "answer": "jumping",
+        "question_id": 1214,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2346467.jpg",
+        "question": "What is the animal that is not small doing?",
+        "answer": "running",
+        "question_id": 1215,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400016.jpg",
+        "question": "What is the dog doing?",
+        "answer": "resting",
+        "question_id": 1216,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2335935.jpg",
+        "question": "What is the giraffe doing?",
+        "answer": "eating",
+        "question_id": 1217,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2377945.jpg",
+        "question": "Who is playing?",
+        "answer": "woman",
+        "question_id": 1218,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2372792.jpg",
+        "question": "Who is waiting?",
+        "answer": "catcher",
+        "question_id": 1219,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410056.jpg",
+        "question": "Who is playing tennis?",
+        "answer": "girl",
+        "question_id": 1220,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2387037.jpg",
+        "question": "What is he doing?",
+        "answer": "eating",
+        "question_id": 1221,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2345144.jpg",
+        "question": "What's the person doing?",
+        "answer": "skiing",
+        "question_id": 1222,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2334086.jpg",
+        "question": "Who is standing?",
+        "answer": "lady",
+        "question_id": 1223,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410392.jpg",
+        "question": "What is the dog doing?",
+        "answer": "resting",
+        "question_id": 1224,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400339.jpg",
+        "question": "What is the umpire doing?",
+        "answer": "waiting",
+        "question_id": 1225,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392698.jpg",
+        "question": "What is the giraffe that is not old doing?",
+        "answer": "drinking",
+        "question_id": 1226,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393273.jpg",
+        "question": "What is the person doing?",
+        "answer": "standing",
+        "question_id": 1227,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404734.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1228,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414475.jpg",
+        "question": "Who is brushing teeth?",
+        "answer": "woman",
+        "question_id": 1229,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391924.jpg",
+        "question": "Who is surfing?",
+        "answer": "woman",
+        "question_id": 1230,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401457.jpg",
+        "question": "Who is waiting?",
+        "answer": "people",
+        "question_id": 1231,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384460.jpg",
+        "question": "What is the man that is waiting doing, standing or crouching?",
+        "answer": "crouching",
+        "question_id": 1232,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414709.jpg",
+        "question": "Who is walking?",
+        "answer": "woman",
+        "question_id": 1233,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388975.jpg",
+        "question": "Who is standing?",
+        "answer": "child",
+        "question_id": 1234,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411248.jpg",
+        "question": "Who in the picture is standing?",
+        "answer": "boy",
+        "question_id": 1235,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2347518.jpg",
+        "question": "Who is playing?",
+        "answer": "batter",
+        "question_id": 1236,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399101.jpg",
+        "question": "What is the sheep doing?",
+        "answer": "running",
+        "question_id": 1237,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/3288.jpg",
+        "question": "What is the person doing?",
+        "answer": "sitting",
+        "question_id": 1238,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2383884.jpg",
+        "question": "What are the people to the left of the men doing?",
+        "answer": "standing",
+        "question_id": 1239,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371760.jpg",
+        "question": "Who is looking left?",
+        "answer": "zebra",
+        "question_id": 1240,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350062.jpg",
+        "question": "What's the person doing?",
+        "answer": "taking a picture",
+        "question_id": 1241,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409876.jpg",
+        "question": "What's the bear doing?",
+        "answer": "sitting",
+        "question_id": 1242,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/713277.jpg",
+        "question": "What is the woman doing?",
+        "answer": "reading",
+        "question_id": 1243,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2316884.jpg",
+        "question": "What is the cat doing?",
+        "answer": "resting",
+        "question_id": 1244,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2339632.jpg",
+        "question": "What's the dog doing?",
+        "answer": "looking up",
+        "question_id": 1245,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384023.jpg",
+        "question": "What are the elephants near the tree doing?",
+        "answer": "walking",
+        "question_id": 1246,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2360947.jpg",
+        "question": "What is the dog doing?",
+        "answer": "standing",
+        "question_id": 1247,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389626.jpg",
+        "question": "Who in the picture is walking?",
+        "answer": "boy",
+        "question_id": 1248,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350232.jpg",
+        "question": "What is the black animal doing?",
+        "answer": "looking down",
+        "question_id": 1249,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410989.jpg",
+        "question": "What is the person to the left of the car doing?",
+        "answer": "waiting",
+        "question_id": 1250,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391758.jpg",
+        "question": "What is the person doing?",
+        "answer": "skiing",
+        "question_id": 1251,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318090.jpg",
+        "question": "Who is dressed in blue?",
+        "answer": "player",
+        "question_id": 1252,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378646.jpg",
+        "question": "What is the person with the bag doing?",
+        "answer": "standing",
+        "question_id": 1253,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373590.jpg",
+        "question": "What is the woman doing?",
+        "answer": "walking",
+        "question_id": 1254,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409543.jpg",
+        "question": "Who is eating?",
+        "answer": "men",
+        "question_id": 1255,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414503.jpg",
+        "question": "Who is playing?",
+        "answer": "people",
+        "question_id": 1256,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362419.jpg",
+        "question": "Who is looking down?",
+        "answer": "men",
+        "question_id": 1257,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402809.jpg",
+        "question": "What is the bear doing?",
+        "answer": "reading",
+        "question_id": 1258,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2317343.jpg",
+        "question": "Who in this photo is standing?",
+        "answer": "guy",
+        "question_id": 1259,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402516.jpg",
+        "question": "Who in the photo is walking?",
+        "answer": "people",
+        "question_id": 1260,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2374540.jpg",
+        "question": "What is the person that is to the right of the boy doing?",
+        "answer": "talking",
+        "question_id": 1261,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371169.jpg",
+        "question": "What is the dog doing?",
+        "answer": "jumping",
+        "question_id": 1262,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2355678.jpg",
+        "question": "Who is playing baseball?",
+        "answer": "man",
+        "question_id": 1263,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2328701.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1264,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391835.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 1265,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363959.jpg",
+        "question": "What's the batter doing?",
+        "answer": "playing",
+        "question_id": 1266,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411214.jpg",
+        "question": "What is the woman doing?",
+        "answer": "playing",
+        "question_id": 1267,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2315383.jpg",
+        "question": "What is the girl to the left of the other girl doing?",
+        "answer": "staring",
+        "question_id": 1268,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388232.jpg",
+        "question": "What is the animal that is to the right of the radiator doing, resting or playing?",
+        "answer": "resting",
+        "question_id": 1269,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318832.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 1270,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400520.jpg",
+        "question": "Who is sitting?",
+        "answer": "people",
+        "question_id": 1271,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342125.jpg",
+        "question": "What is the boy doing?",
+        "answer": "lying",
+        "question_id": 1272,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2341659.jpg",
+        "question": "Who in this photo is playing video games?",
+        "answer": "boy",
+        "question_id": 1273,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2396614.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1274,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399190.jpg",
+        "question": "What is the man doing?",
+        "answer": "posing",
+        "question_id": 1275,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2387359.jpg",
+        "question": "What is the man to the left of the women doing?",
+        "answer": "drinking",
+        "question_id": 1276,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318832.jpg",
+        "question": "What are the people doing, standing or walking?",
+        "answer": "standing",
+        "question_id": 1277,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319339.jpg",
+        "question": "Who is looking down?",
+        "answer": "boy",
+        "question_id": 1278,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2366104.jpg",
+        "question": "Who is surfing?",
+        "answer": "man",
+        "question_id": 1279,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2346551.jpg",
+        "question": "What is the boy doing?",
+        "answer": "bending",
+        "question_id": 1280,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2382835.jpg",
+        "question": "Who is skiing?",
+        "answer": "child",
+        "question_id": 1281,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384711.jpg",
+        "question": "What is the catcher doing?",
+        "answer": "running",
+        "question_id": 1282,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405913.jpg",
+        "question": "What do you think is the boy doing, swimming or skating?",
+        "answer": "skating",
+        "question_id": 1283,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411058.jpg",
+        "question": "What is the cat doing?",
+        "answer": "looking up",
+        "question_id": 1284,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384074.jpg",
+        "question": "What is the woman doing?",
+        "answer": "pointing",
+        "question_id": 1285,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/150295.jpg",
+        "question": "What is the boy doing?",
+        "answer": "standing",
+        "question_id": 1286,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379684.jpg",
+        "question": "What is the person doing?",
+        "answer": "lying",
+        "question_id": 1287,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386341.jpg",
+        "question": "What is the cat doing?",
+        "answer": "playing",
+        "question_id": 1288,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389822.jpg",
+        "question": "What is the surfer doing, riding or surfing?",
+        "answer": "riding",
+        "question_id": 1289,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2351709.jpg",
+        "question": "Who is skiing?",
+        "answer": "man",
+        "question_id": 1290,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2374179.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1291,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350250.jpg",
+        "question": "What are the people to the right of the other people doing?",
+        "answer": "standing",
+        "question_id": 1292,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384063.jpg",
+        "question": "What is the man doing?",
+        "answer": "skiing",
+        "question_id": 1293,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386682.jpg",
+        "question": "Who is playing?",
+        "answer": "woman",
+        "question_id": 1294,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2376766.jpg",
+        "question": "What is the man doing?",
+        "answer": "sleeping",
+        "question_id": 1295,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318191.jpg",
+        "question": "What is the man doing?",
+        "answer": "walking",
+        "question_id": 1296,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2340438.jpg",
+        "question": "Who in this photo is playing?",
+        "answer": "batter",
+        "question_id": 1297,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385420.jpg",
+        "question": "Who is posing?",
+        "answer": "man",
+        "question_id": 1298,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2341852.jpg",
+        "question": "Who is running?",
+        "answer": "athlete",
+        "question_id": 1299,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391564.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1300,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385698.jpg",
+        "question": "What is he doing?",
+        "answer": "skating",
+        "question_id": 1301,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397769.jpg",
+        "question": "Who is playing?",
+        "answer": "boy",
+        "question_id": 1302,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2323683.jpg",
+        "question": "What is the person doing?",
+        "answer": "skateboarding",
+        "question_id": 1303,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385341.jpg",
+        "question": "What is the dog doing?",
+        "answer": "jumping",
+        "question_id": 1304,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385274.jpg",
+        "question": "What is the bear near the wall doing?",
+        "answer": "sitting",
+        "question_id": 1305,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392625.jpg",
+        "question": "What is the man that is to the right of the other man doing?",
+        "answer": "taking a picture",
+        "question_id": 1306,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2341067.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1307,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405244.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1308,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380665.jpg",
+        "question": "Who is dressed in black?",
+        "answer": "man",
+        "question_id": 1309,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404827.jpg",
+        "question": "What is the person doing, skating or swimming?",
+        "answer": "skating",
+        "question_id": 1310,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400016.jpg",
+        "question": "What is the white animal doing?",
+        "answer": "resting",
+        "question_id": 1311,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404827.jpg",
+        "question": "What is the person doing?",
+        "answer": "jumping",
+        "question_id": 1312,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405536.jpg",
+        "question": "What is the girl doing?",
+        "answer": "playing",
+        "question_id": 1313,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2359715.jpg",
+        "question": "What is the kid to the right of the candle doing?",
+        "answer": "sitting",
+        "question_id": 1314,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/1069.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1315,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/1593177.jpg",
+        "question": "What is the man with the coat doing?",
+        "answer": "standing",
+        "question_id": 1316,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399195.jpg",
+        "question": "What is the woman doing?",
+        "answer": "sitting",
+        "question_id": 1317,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2340021.jpg",
+        "question": "What is the dog doing?",
+        "answer": "walking",
+        "question_id": 1318,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2344504.jpg",
+        "question": "Who in this photo is standing?",
+        "answer": "man",
+        "question_id": 1319,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363223.jpg",
+        "question": "What is he doing?",
+        "answer": "looking down",
+        "question_id": 1320,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407294.jpg",
+        "question": "What is the man doing?",
+        "answer": "playing",
+        "question_id": 1321,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2347528.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1322,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2402492.jpg",
+        "question": "What is the cat doing?",
+        "answer": "resting",
+        "question_id": 1323,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381547.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 1324,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350743.jpg",
+        "question": "What's the cat doing?",
+        "answer": "walking",
+        "question_id": 1325,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2377607.jpg",
+        "question": "What is he doing?",
+        "answer": "crouching",
+        "question_id": 1326,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381410.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 1327,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401622.jpg",
+        "question": "What is the girl doing?",
+        "answer": "sitting",
+        "question_id": 1328,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391318.jpg",
+        "question": "What is the man doing?",
+        "answer": "running",
+        "question_id": 1329,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407802.jpg",
+        "question": "Who is standing?",
+        "answer": "player",
+        "question_id": 1330,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2367641.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1331,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381723.jpg",
+        "question": "What are the people to the right of the plane doing?",
+        "answer": "playing",
+        "question_id": 1332,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408330.jpg",
+        "question": "Who is sitting?",
+        "answer": "girl",
+        "question_id": 1333,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2365049.jpg",
+        "question": "What is the woman to the right of the purse doing, talking or reading?",
+        "answer": "talking",
+        "question_id": 1334,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381723.jpg",
+        "question": "Who is playing?",
+        "answer": "boys",
+        "question_id": 1335,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2406583.jpg",
+        "question": "What is the man that is to the left of the cucumber doing?",
+        "answer": "standing",
+        "question_id": 1336,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405720.jpg",
+        "question": "What is the person doing?",
+        "answer": "waiting",
+        "question_id": 1337,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413817.jpg",
+        "question": "What is the cow doing?",
+        "answer": "standing",
+        "question_id": 1338,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2359744.jpg",
+        "question": "What is the cat doing?",
+        "answer": "walking",
+        "question_id": 1339,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403579.jpg",
+        "question": "What's the man doing?",
+        "answer": "sitting",
+        "question_id": 1340,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319627.jpg",
+        "question": "Who is playing?",
+        "answer": "woman",
+        "question_id": 1341,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378471.jpg",
+        "question": "Who is playing?",
+        "answer": "men",
+        "question_id": 1342,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409707.jpg",
+        "question": "Who is dressed in pink?",
+        "answer": "child",
+        "question_id": 1343,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2338332.jpg",
+        "question": "Who in this picture is sitting?",
+        "answer": "children",
+        "question_id": 1344,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401710.jpg",
+        "question": "What's the person doing?",
+        "answer": "snowboarding",
+        "question_id": 1345,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409472.jpg",
+        "question": "Who is standing?",
+        "answer": "women",
+        "question_id": 1346,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389882.jpg",
+        "question": "Who is standing?",
+        "answer": "woman",
+        "question_id": 1347,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404476.jpg",
+        "question": "Who is standing?",
+        "answer": "people",
+        "question_id": 1348,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2353117.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1349,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403180.jpg",
+        "question": "Who is waiting?",
+        "answer": "man",
+        "question_id": 1350,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2369899.jpg",
+        "question": "Who is playing Wii?",
+        "answer": "guy",
+        "question_id": 1351,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380720.jpg",
+        "question": "What is the person near the door doing?",
+        "answer": "posing",
+        "question_id": 1352,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2322282.jpg",
+        "question": "Who is standing?",
+        "answer": "girl",
+        "question_id": 1353,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/667.jpg",
+        "question": "What is the man that is to the left of the other men doing, walking or crouching?",
+        "answer": "crouching",
+        "question_id": 1354,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380928.jpg",
+        "question": "What's the person doing?",
+        "answer": "swimming",
+        "question_id": 1355,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2380181.jpg",
+        "question": "What is the dog doing?",
+        "answer": "staring",
+        "question_id": 1356,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385910.jpg",
+        "question": "What is the white sheep in the field doing?",
+        "answer": "sitting",
+        "question_id": 1357,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407473.jpg",
+        "question": "What is the man doing?",
+        "answer": "sleeping",
+        "question_id": 1358,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2359656.jpg",
+        "question": "Who in this photo is sitting?",
+        "answer": "woman",
+        "question_id": 1359,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404361.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1360,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/1593007.jpg",
+        "question": "What are the happy girls doing?",
+        "answer": "posing",
+        "question_id": 1361,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362334.jpg",
+        "question": "What is the brown animal doing?",
+        "answer": "posing",
+        "question_id": 1362,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384051.jpg",
+        "question": "Who is waiting?",
+        "answer": "man",
+        "question_id": 1363,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2353384.jpg",
+        "question": "Who is dressed in white?",
+        "answer": "guy",
+        "question_id": 1364,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388805.jpg",
+        "question": "Who is lying?",
+        "answer": "player",
+        "question_id": 1365,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2861.jpg",
+        "question": "Who in this photo is standing?",
+        "answer": "woman",
+        "question_id": 1366,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410600.jpg",
+        "question": "What is the calf on the grass doing?",
+        "answer": "sleeping",
+        "question_id": 1367,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408676.jpg",
+        "question": "Who is skiing?",
+        "answer": "boy",
+        "question_id": 1368,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395949.jpg",
+        "question": "Who is dressed in white?",
+        "answer": "child",
+        "question_id": 1369,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408800.jpg",
+        "question": "Who is riding?",
+        "answer": "skater",
+        "question_id": 1370,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381903.jpg",
+        "question": "What is the cow in the pasture doing?",
+        "answer": "waiting",
+        "question_id": 1371,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2346551.jpg",
+        "question": "Who in the picture is bending?",
+        "answer": "boy",
+        "question_id": 1372,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384158.jpg",
+        "question": "Who is standing?",
+        "answer": "guy",
+        "question_id": 1373,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2316465.jpg",
+        "question": "Who is sitting?",
+        "answer": "people",
+        "question_id": 1374,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/3207.jpg",
+        "question": "Who is standing?",
+        "answer": "man",
+        "question_id": 1375,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378689.jpg",
+        "question": "What is the person behind the catcher doing?",
+        "answer": "waiting",
+        "question_id": 1376,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2387787.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 1377,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371728.jpg",
+        "question": "Who is looking away?",
+        "answer": "people",
+        "question_id": 1378,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2362594.jpg",
+        "question": "Who is standing?",
+        "answer": "skater",
+        "question_id": 1379,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388596.jpg",
+        "question": "What's the woman doing?",
+        "answer": "talking",
+        "question_id": 1380,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318382.jpg",
+        "question": "Who is dressed in black?",
+        "answer": "man",
+        "question_id": 1381,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2352361.jpg",
+        "question": "Who is skateboarding?",
+        "answer": "boy",
+        "question_id": 1382,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363959.jpg",
+        "question": "Who is playing?",
+        "answer": "batter",
+        "question_id": 1383,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388260.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 1384,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413209.jpg",
+        "question": "What is the woman doing?",
+        "answer": "skating",
+        "question_id": 1385,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2382502.jpg",
+        "question": "What is the dog doing?",
+        "answer": "jumping",
+        "question_id": 1386,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397600.jpg",
+        "question": "Who is dressed in black?",
+        "answer": "boy",
+        "question_id": 1387,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2341852.jpg",
+        "question": "What is the person to the right of the athlete doing?",
+        "answer": "running",
+        "question_id": 1388,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379475.jpg",
+        "question": "What is the man doing?",
+        "answer": "resting",
+        "question_id": 1389,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2378123.jpg",
+        "question": "Who is walking?",
+        "answer": "woman",
+        "question_id": 1390,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409122.jpg",
+        "question": "What is the animal that looks brown doing?",
+        "answer": "standing",
+        "question_id": 1391,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411222.jpg",
+        "question": "Who is playing?",
+        "answer": "boy",
+        "question_id": 1392,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371568.jpg",
+        "question": "Who is posing?",
+        "answer": "man",
+        "question_id": 1393,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2365195.jpg",
+        "question": "What is the white bird on the ground doing, sitting or standing?",
+        "answer": "standing",
+        "question_id": 1394,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412204.jpg",
+        "question": "Who is sitting?",
+        "answer": "boy",
+        "question_id": 1395,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2374515.jpg",
+        "question": "What is the animal near the hill doing, drinking or eating?",
+        "answer": "eating",
+        "question_id": 1396,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2354739.jpg",
+        "question": "What is the man doing?",
+        "answer": "surfing",
+        "question_id": 1397,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397556.jpg",
+        "question": "What is the cow doing?",
+        "answer": "resting",
+        "question_id": 1398,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2353264.jpg",
+        "question": "What is the person doing?",
+        "answer": "walking",
+        "question_id": 1399,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2349905.jpg",
+        "question": "Who is standing?",
+        "answer": "guy",
+        "question_id": 1400,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400768.jpg",
+        "question": "What are the people that are to the right of the boy doing?",
+        "answer": "sitting",
+        "question_id": 1401,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2352342.jpg",
+        "question": "What is the man doing?",
+        "answer": "skiing",
+        "question_id": 1402,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385924.jpg",
+        "question": "What is the lady doing?",
+        "answer": "playing",
+        "question_id": 1403,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386013.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 1404,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2390743.jpg",
+        "question": "What is the man doing?",
+        "answer": "skating",
+        "question_id": 1405,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412204.jpg",
+        "question": "What's the woman doing?",
+        "answer": "eating",
+        "question_id": 1406,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389812.jpg",
+        "question": "Who is dressed in white?",
+        "answer": "man",
+        "question_id": 1407,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373271.jpg",
+        "question": "What is the boy doing?",
+        "answer": "eating",
+        "question_id": 1408,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2408048.jpg",
+        "question": "Who is playing?",
+        "answer": "woman",
+        "question_id": 1409,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2332541.jpg",
+        "question": "Who is playing?",
+        "answer": "people",
+        "question_id": 1410,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395567.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 1411,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2374540.jpg",
+        "question": "What is the man doing?",
+        "answer": "talking",
+        "question_id": 1412,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2371987.jpg",
+        "question": "Who in the scene is playing tennis?",
+        "answer": "boy",
+        "question_id": 1413,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2353336.jpg",
+        "question": "What is the man doing?",
+        "answer": "bending",
+        "question_id": 1414,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2367313.jpg",
+        "question": "What's the man doing?",
+        "answer": "swimming",
+        "question_id": 1415,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350204.jpg",
+        "question": "What's the man doing?",
+        "answer": "jumping",
+        "question_id": 1416,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399882.jpg",
+        "question": "What is the man doing?",
+        "answer": "standing",
+        "question_id": 1417,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2364614.jpg",
+        "question": "Who is sitting?",
+        "answer": "man",
+        "question_id": 1418,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385917.jpg",
+        "question": "Who is playing?",
+        "answer": "man",
+        "question_id": 1419,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2324396.jpg",
+        "question": "What's the person doing?",
+        "answer": "snowboarding",
+        "question_id": 1420,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2352191.jpg",
+        "question": "Who is sitting?",
+        "answer": "people",
+        "question_id": 1421,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2355060.jpg",
+        "question": "Who is playing music?",
+        "answer": "woman",
+        "question_id": 1422,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350743.jpg",
+        "question": "What are the dogs to the left of the other dog doing?",
+        "answer": "resting",
+        "question_id": 1423,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397306.jpg",
+        "question": "What is the brown animal in front of the car doing?",
+        "answer": "lying",
+        "question_id": 1424,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2322616.jpg",
+        "question": "What is the person doing, waiting or playing?",
+        "answer": "waiting",
+        "question_id": 1425,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393788.jpg",
+        "question": "What is the bear that is to the left of the teddy bear doing?",
+        "answer": "reading",
+        "question_id": 1426,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2319908.jpg",
+        "question": "Who is dressed in brown?",
+        "answer": "boy",
+        "question_id": 1427,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342125.jpg",
+        "question": "Who in this photograph is lying?",
+        "answer": "boy",
+        "question_id": 1428,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2331963.jpg",
+        "question": "What is that umpire doing?",
+        "answer": "bending",
+        "question_id": 1429,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393585.jpg",
+        "question": "Who in this image is playing tennis?",
+        "answer": "woman",
+        "question_id": 1430,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414219.jpg",
+        "question": "Who is standing?",
+        "answer": "boy",
+        "question_id": 1431,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2373592.jpg",
+        "question": "What is the guy doing?",
+        "answer": "standing",
+        "question_id": 1432,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385924.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 1433,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/107964.jpg",
+        "question": "Who is standing?",
+        "answer": "men",
+        "question_id": 1434,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2363959.jpg",
+        "question": "What is the person on the deck doing, bending or standing?",
+        "answer": "bending",
+        "question_id": 1435,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2344245.jpg",
+        "question": "Who in this picture is walking?",
+        "answer": "child",
+        "question_id": 1436,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392331.jpg",
+        "question": "What are the cows that look brown and black doing, lying or standing?",
+        "answer": "standing",
+        "question_id": 1437,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395097.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1438,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2391960.jpg",
+        "question": "What's the boy doing?",
+        "answer": "walking",
+        "question_id": 1439,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409395.jpg",
+        "question": "What is the animal next to the remote control doing?",
+        "answer": "posing",
+        "question_id": 1440,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2401325.jpg",
+        "question": "What is the woman that is to the left of the other woman doing?",
+        "answer": "standing",
+        "question_id": 1441,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2349150.jpg",
+        "question": "Who is standing?",
+        "answer": "player",
+        "question_id": 1442,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386979.jpg",
+        "question": "What is the man that is to the right of the other man doing?",
+        "answer": "running",
+        "question_id": 1443,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405260.jpg",
+        "question": "Who in this picture is posing?",
+        "answer": "girl",
+        "question_id": 1444,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403230.jpg",
+        "question": "What is the young man doing?",
+        "answer": "posing",
+        "question_id": 1445,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2355947.jpg",
+        "question": "What's the woman doing?",
+        "answer": "looking down",
+        "question_id": 1446,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405899.jpg",
+        "question": "Who is playing?",
+        "answer": "girl",
+        "question_id": 1447,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2370705.jpg",
+        "question": "What is the person doing?",
+        "answer": "lying",
+        "question_id": 1448,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404030.jpg",
+        "question": "What is the woman doing?",
+        "answer": "standing",
+        "question_id": 1449,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2392845.jpg",
+        "question": "What is the animal to the right of the child doing?",
+        "answer": "standing",
+        "question_id": 1450,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2387842.jpg",
+        "question": "Who is running?",
+        "answer": "boy",
+        "question_id": 1451,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2397421.jpg",
+        "question": "What's the woman doing?",
+        "answer": "crouching",
+        "question_id": 1452,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413588.jpg",
+        "question": "Who is running?",
+        "answer": "people",
+        "question_id": 1453,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2323780.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1454,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388049.jpg",
+        "question": "What is the person doing?",
+        "answer": "taking a picture",
+        "question_id": 1455,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2405896.jpg",
+        "question": "Who is eating?",
+        "answer": "girl",
+        "question_id": 1456,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2350006.jpg",
+        "question": "What is the boy doing?",
+        "answer": "walking",
+        "question_id": 1457,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2404476.jpg",
+        "question": "What is the woman doing?",
+        "answer": "talking",
+        "question_id": 1458,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2377945.jpg",
+        "question": "What is the man doing?",
+        "answer": "playing",
+        "question_id": 1459,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379178.jpg",
+        "question": "What's the woman doing?",
+        "answer": "talking",
+        "question_id": 1460,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2395254.jpg",
+        "question": "Who is playing?",
+        "answer": "batter",
+        "question_id": 1461,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2394264.jpg",
+        "question": "Who is walking?",
+        "answer": "pedestrian",
+        "question_id": 1462,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2318090.jpg",
+        "question": "Who is jumping?",
+        "answer": "player",
+        "question_id": 1463,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386299.jpg",
+        "question": "Who is playing?",
+        "answer": "men",
+        "question_id": 1464,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2359264.jpg",
+        "question": "What is the person in the sky doing, skateboarding or swimming?",
+        "answer": "skateboarding",
+        "question_id": 1465,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2328850.jpg",
+        "question": "Who is jumping?",
+        "answer": "guy",
+        "question_id": 1466,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2376544.jpg",
+        "question": "What's he doing?",
+        "answer": "eating",
+        "question_id": 1467,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2386297.jpg",
+        "question": "What are the people doing?",
+        "answer": "waiting",
+        "question_id": 1468,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2317756.jpg",
+        "question": "Who in the picture is sitting?",
+        "answer": "woman",
+        "question_id": 1469,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2415046.jpg",
+        "question": "What's the skier doing?",
+        "answer": "standing",
+        "question_id": 1470,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2407404.jpg",
+        "question": "What is the man doing?",
+        "answer": "skiing",
+        "question_id": 1471,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414912.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1472,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385195.jpg",
+        "question": "What is the bear in the trash bag doing?",
+        "answer": "lying",
+        "question_id": 1473,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385032.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 1474,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2379479.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 1475,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393822.jpg",
+        "question": "Who is skateboarding?",
+        "answer": "woman",
+        "question_id": 1476,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2400262.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 1477,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393625.jpg",
+        "question": "What is the young person doing?",
+        "answer": "performing trick",
+        "question_id": 1478,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389205.jpg",
+        "question": "Who is playing?",
+        "answer": "catcher",
+        "question_id": 1479,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2403045.jpg",
+        "question": "Who is lying?",
+        "answer": "woman",
+        "question_id": 1480,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411519.jpg",
+        "question": "What's the polar bear doing?",
+        "answer": "swimming",
+        "question_id": 1481,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2349795.jpg",
+        "question": "Who is sitting?",
+        "answer": "guy",
+        "question_id": 1482,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413897.jpg",
+        "question": "Who is crouching?",
+        "answer": "umpire",
+        "question_id": 1483,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2381293.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1484,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2389626.jpg",
+        "question": "What is the child doing?",
+        "answer": "bending",
+        "question_id": 1485,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2388279.jpg",
+        "question": "Who is skiing?",
+        "answer": "skier",
+        "question_id": 1486,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409694.jpg",
+        "question": "Who is dressed in yellow?",
+        "answer": "player",
+        "question_id": 1487,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2344251.jpg",
+        "question": "Who is talking?",
+        "answer": "people",
+        "question_id": 1488,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2413209.jpg",
+        "question": "Who is skating?",
+        "answer": "woman",
+        "question_id": 1489,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2384006.jpg",
+        "question": "Who is standing?",
+        "answer": "girl",
+        "question_id": 1490,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2322610.jpg",
+        "question": "What is the cat doing?",
+        "answer": "looking up",
+        "question_id": 1491,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2342147.jpg",
+        "question": "Who is posing?",
+        "answer": "man",
+        "question_id": 1492,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2410600.jpg",
+        "question": "What is the calf doing?",
+        "answer": "sleeping",
+        "question_id": 1493,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2361665.jpg",
+        "question": "Who is running?",
+        "answer": "people",
+        "question_id": 1494,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409594.jpg",
+        "question": "What is the man doing?",
+        "answer": "jumping",
+        "question_id": 1495,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2409047.jpg",
+        "question": "Who is talking?",
+        "answer": "women",
+        "question_id": 1496,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2382216.jpg",
+        "question": "What is the man doing?",
+        "answer": "walking",
+        "question_id": 1497,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2411389.jpg",
+        "question": "What is she doing?",
+        "answer": "jumping",
+        "question_id": 1498,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2399159.jpg",
+        "question": "Who is walking?",
+        "answer": "people",
+        "question_id": 1499,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2385952.jpg",
+        "question": "Who is playing frisbee?",
+        "answer": "children",
+        "question_id": 1500,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2359424.jpg",
+        "question": "What is the dog doing?",
+        "answer": "looking up",
+        "question_id": 1501,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2331963.jpg",
+        "question": "Who in the image is bending?",
+        "answer": "umpire",
+        "question_id": 1502,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2393381.jpg",
+        "question": "Who is skiing?",
+        "answer": "girl",
+        "question_id": 1503,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2345428.jpg",
+        "question": "What's the man doing?",
+        "answer": "sitting",
+        "question_id": 1504,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2412542.jpg",
+        "question": "Who is sitting?",
+        "answer": "boy",
+        "question_id": 1505,
+        "dataset": "vg"
+    },
+    {
+        "image": "images/2414272.jpg",
+        "question": "Who is sitting?",
+        "answer": "woman",
+        "question_id": 1506,
+        "dataset": "vg"
+    }
+]

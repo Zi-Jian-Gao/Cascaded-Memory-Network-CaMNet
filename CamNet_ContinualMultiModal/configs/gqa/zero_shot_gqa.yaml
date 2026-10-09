@@ -1,0 +1,6 @@
+vqa_path: 'datasets/gqa'
+task_list:
+  - name: gqa
+    config: 'configs/task_config/vqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/gqa/zero_shot_vqa.json']

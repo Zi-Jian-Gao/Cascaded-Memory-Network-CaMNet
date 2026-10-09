@@ -1,0 +1,2594 @@
+[
+    {
+        "image": "test/test_0100.jpg",
+        "question": "Where is the atrium shown?",
+        "answer": "on the right in this four-chamber view of the heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0100.jpg",
+        "question": "Where is the pacemaker?",
+        "answer": "in the right ventricle",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0181.jpg",
+        "question": "Where is the left ventricle shown in this four-chamber view?",
+        "answer": "on the right",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0087.jpg",
+        "question": "Where is plexiform lesion characteristic of advanced pulmonary hypertension seen?",
+        "answer": "in small arteries",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0207.jpg",
+        "question": "Where are areas of chalky necrosis present?",
+        "answer": "within the colon wall",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0027.jpg",
+        "question": "Where is carcinomatous tissue seen ?",
+        "answer": "on the posterior aspect",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0308.jpg",
+        "question": "Where is normal testis seen?",
+        "answer": "on the right",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0050.jpg",
+        "question": "Where are abscesses present?",
+        "answer": "in the putamen and thalamus",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0225.jpg",
+        "question": "Where is the affected area?",
+        "answer": "on right",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0225.jpg",
+        "question": "Where is the affected area?",
+        "answer": "on right",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0154.jpg",
+        "question": "Where is the dead cell seen?",
+        "answer": "in singles",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0108.jpg",
+        "question": "Where are foci of metaplastic squamous epithelium seen?",
+        "answer": "at other places",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0188.jpg",
+        "question": "Where are the amyloid deposits seen?",
+        "answer": "glomerular capillary tuft",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0188.jpg",
+        "question": "Where are the deposits producing atrophic tubules present?",
+        "answer": "peritubular connective tissue",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0210.jpg",
+        "question": "Where the deposition is extensive causing compression and pressure atrophy of hepatocytes?",
+        "answer": "in the space of disse",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0297.jpg",
+        "question": "Where is acute inflammatory infiltrate at?",
+        "answer": "the periphery of the infarct",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0236.jpg",
+        "question": "Where is inflammatory response from?",
+        "answer": "the margins",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0206.jpg",
+        "question": "Where is diagrammatic representation of three forms of arteriolosclerosis seen?",
+        "answer": "in hypertension ",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0007.jpg",
+        "question": "Where is a partly formed unerupted tooth seen in?",
+        "answer": "wall",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0220.jpg",
+        "question": "Where is inflammatory cell infiltration marked at?",
+        "answer": "line of demarcation between the infarcted and normal bowel",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0182.jpg",
+        "question": "Where is the specimen of small intestine shown?",
+        "answer": "in longitudinal section",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0183.jpg",
+        "question": "Where is there?",
+        "answer": "no significant inflammation or fibrosis",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0246.jpg",
+        "question": "Where is mononuclear inflammatory cell infiltrate present?",
+        "answer": "in subepithelial and perimuscular layers",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0170.jpg",
+        "question": "Where does the trabecular bone forming the marrow space show?",
+        "answer": "at the margins ",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0092.jpg",
+        "question": "Where is the end of the long bone expanded?",
+        "answer": "in region of epiphysis",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0475.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "abdomen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0476.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "abdomen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0477.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "abdomen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0478.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "abdomen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0480.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "abdomen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0481.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "abdomen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0479.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "abdomen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0482.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "abdomen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0483.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "abdomen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0496.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "breast",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0610.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "breast",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0606.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "breast",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0607.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "breast",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0609.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "breast",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0608.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "breast",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0559.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0560.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0491.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0494.jpg",
+        "question": "Where is this mage from?",
+        "answer": "capillary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0492.jpg",
+        "question": "Where is this mage from?",
+        "answer": "capillary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0493.jpg",
+        "question": "Where is this mage from?",
+        "answer": "capillary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0484.jpg",
+        "question": "Where is this mage from?",
+        "answer": "capillary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0495.jpg",
+        "question": "Where is this mage from?",
+        "answer": "capillary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0490.jpg",
+        "question": "Where is this area in the body?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0489.jpg",
+        "question": "Where is this?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0488.jpg",
+        "question": "Where is this?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0486.jpg",
+        "question": "Where is this?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0487.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0485.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0882.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0886.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0885.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0862.jpg",
+        "question": "Where is this?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0863.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0884.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0883.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0880.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0877.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0881.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0870.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0868.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0869.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0872.jpg",
+        "question": "Where is this?",
+        "answer": "aorta",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0873.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0865.jpg",
+        "question": "Where is this?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0864.jpg",
+        "question": "Where is this?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0878.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0875.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0879.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0876.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0867.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0874.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0866.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0871.jpg",
+        "question": "Where is this?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0971.jpg",
+        "question": "Where is this from?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0972.jpg",
+        "question": "Where is this from?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0970.jpg",
+        "question": "Where is this in?",
+        "answer": "in heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0976.jpg",
+        "question": "Where is this in?",
+        "answer": "in heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0979.jpg",
+        "question": "Where is this in?",
+        "answer": "in vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0978.jpg",
+        "question": "Where is this in?",
+        "answer": "in vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0981.jpg",
+        "question": "Where is this in?",
+        "answer": "in heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0977.jpg",
+        "question": "Where is this in?",
+        "answer": "in heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0973.jpg",
+        "question": "Where is this in?",
+        "answer": "in vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0969.jpg",
+        "question": "Where is this in?",
+        "answer": "in vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0964.jpg",
+        "question": "Where is this in?",
+        "answer": "in vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0965.jpg",
+        "question": "Where is this in?",
+        "answer": "in vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0963.jpg",
+        "question": "Where is this in?",
+        "answer": "in heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0980.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0974.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0983.jpg",
+        "question": "Where is this from?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0982.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0966.jpg",
+        "question": "Where is this from?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0967.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0968.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0975.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0987.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0988.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0989.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0861.jpg",
+        "question": "Where is this from?",
+        "answer": "vasculature",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0860.jpg",
+        "question": "Where is this from?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0859.jpg",
+        "question": "Where is this from?",
+        "answer": "heart",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0439.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0446.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0444.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0457.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0451.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0449.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0453.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0456.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0442.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0448.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0440.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0443.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0455.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0445.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0450.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0447.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0454.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0452.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0441.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0461.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0459.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0437.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0438.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0460.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0458.jpg",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0564.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0562.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0563.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0576.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0580.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0572.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0573.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0566.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0581.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0561.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0567.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0565.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0575.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0577.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0574.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0571.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0578.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0579.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0582.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0570.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0568.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0569.jpg",
+        "question": "Where is this part in the figure?",
+        "answer": "endocrine system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0602.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0604.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0583.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0584.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0592.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0586.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0590.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0605.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0600.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0595.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0596.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0591.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0601.jpg",
+        "question": "Where does this part belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0587.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0603.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0598.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0597.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0588.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0599.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0589.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0585.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0593.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0594.jpg",
+        "question": "Where does this belong to?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0462.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0472.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0474.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0473.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0467.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0468.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0465.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0466.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0464.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0471.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0469.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0470.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0463.jpg",
+        "question": "Where is this from?",
+        "answer": "female reproductive system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0556.jpg",
+        "question": "Where is this electron microscopy figure taken?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0505.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0503.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0504.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0510.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0509.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0498.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0511.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0508.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0500.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0499.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0502.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0497.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0506.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0501.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0512.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0507.jpg",
+        "question": "Where does this belong to?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0751.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0727.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0732.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0731.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0733.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0728.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0734.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0736.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0738.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0737.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0746.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0742.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0747.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0750.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0749.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0730.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0729.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0735.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0740.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0744.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0743.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0741.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0739.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0748.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0745.jpg",
+        "question": "Where is this from?",
+        "answer": "gastrointestinal system",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0691.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0674.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0675.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0690.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0680.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0679.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0681.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0682.jpg",
+        "question": "Where is this part in?",
+        "answer": "thymus",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0689.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0683.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0684.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0688.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0686.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0677.jpg",
+        "question": "Where is this part in?",
+        "answer": "thymus",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0676.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0678.jpg",
+        "question": "Where is marrow in?",
+        "answer": "Bone",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0687.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0685.jpg",
+        "question": "Where is this part in?",
+        "answer": "spleen",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0397.jpg",
+        "question": "Where is this?",
+        "answer": "nervous",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0396.jpg",
+        "question": "Where is this?",
+        "answer": "nervous",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0401.jpg",
+        "question": "Where is this?",
+        "answer": "nervous",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0399.jpg",
+        "question": "Where is this?",
+        "answer": "nervous",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0400.jpg",
+        "question": "Where is this?",
+        "answer": "nervous",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0398.jpg",
+        "question": "Where is this?",
+        "answer": "nervous",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0407.jpg",
+        "question": "Where is this?",
+        "answer": "nervous",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0405.jpg",
+        "question": "Where is this?",
+        "answer": "nervous",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0402.jpg",
+        "question": "Where is this?",
+        "answer": "nervous",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0435.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0434.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0432.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0433.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0430.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0431.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0320.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0319.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0318.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0328.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0325.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0323.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0327.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0317.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0321.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0324.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0326.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0322.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0329.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0332.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0330.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0331.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0713.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0712.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0721.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0723.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0709.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0711.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0710.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0714.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0722.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0708.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0719.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0718.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0720.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0716.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0717.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0715.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0791.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0797.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0793.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0792.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0794.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0795.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0789.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0790.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0796.jpg",
+        "question": "Where is this?",
+        "answer": "oral",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0695.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0694.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0704.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0698.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0705.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0697.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0699.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0701.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0696.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0692.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0706.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0693.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0707.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0700.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0702.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0703.jpg",
+        "question": "Where is this?",
+        "answer": "pancreas",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0425.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0422.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0414.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0415.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0418.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0417.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0424.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0420.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0421.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0427.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0423.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0429.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0426.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0428.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0416.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0419.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0364.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0358.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0365.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0368.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0371.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0373.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0372.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0370.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0357.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0356.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0369.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0367.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0366.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0362.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0360.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0361.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0363.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0359.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0392.jpg",
+        "question": "Where is this?",
+        "answer": "lung",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0839.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0832.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0836.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0840.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0841.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0842.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0838.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0837.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0831.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0833.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0835.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0834.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0843.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0829.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0830.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0888.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0887.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0903.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0897.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0896.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0893.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0890.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0899.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0898.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0900.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0891.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0902.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0895.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0894.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0892.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0889.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0901.jpg",
+        "question": "Where is this?",
+        "answer": "skin",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0659.jpg",
+        "question": "Where is this?",
+        "answer": "thorax",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0658.jpg",
+        "question": "Where is this?",
+        "answer": "thorax",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0656.jpg",
+        "question": "Where is this?",
+        "answer": "thorax",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0657.jpg",
+        "question": "Where is this?",
+        "answer": "thorax",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0660.jpg",
+        "question": "Where is this?",
+        "answer": "thorax",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0543.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0540.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0550.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0547.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0538.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0548.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0542.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0541.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0539.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0544.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0549.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0546.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0551.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0545.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0634.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0635.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0636.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0655.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0633.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0631.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0632.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0639.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0644.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0646.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0642.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0647.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0654.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0637.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0650.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0641.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0640.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0649.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0643.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0652.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0645.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0653.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0651.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0638.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    },
+    {
+        "image": "test/test_0648.jpg",
+        "question": "Where is this?",
+        "answer": "urinary",
+        "dataset": "pathvqa"
+    }
+]

@@ -1,0 +1,1565 @@
+[
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/1_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/2_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/3_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/4_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/5_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/7_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/7_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/6_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/10_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/11_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/9_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/11_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/12_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/17_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/20_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/12_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/88_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 1,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/86_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 2,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/87_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 2,
+        "question": "What is the power strip made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/87_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 2,
+        "question": "What is the power strip made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/93_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 3,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/89_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 4,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/92_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 4,
+        "question": "What is the tv made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/92_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 5,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/93_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 6,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/99_pen_container.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 7,
+        "question": "What is the pen container made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/96_pen_container.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 8,
+        "question": "What is the pen container made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/97_pen_container.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 9,
+        "question": "What is the pen container made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/98_pen_container.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 10,
+        "question": "What is the pen container made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/99_pen_container.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 11,
+        "question": "What is the pen container made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/102_pen_container.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 11,
+        "question": "What is the door made of?",
+        "answer": [
+            "glass"
+        ],
+        "image": [
+            "train_samples/110_door.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 11,
+        "question": "What is the trash can made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/115_door.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 12,
+        "question": "What is the pen container made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/100_pen_container.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 13,
+        "question": "What is the box made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/141_box.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 14,
+        "question": "What is the phone made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/142_phone.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 14,
+        "question": "What is the phone made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/143_phone.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 14,
+        "question": "What is this made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/144_phone.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 15,
+        "question": "What is charge made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/147_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 15,
+        "question": "What is USB cable made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/147_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 15,
+        "question": "What is cup made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/147_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 15,
+        "question": "What is power strip made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/147_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 15,
+        "question": "What is this made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/148_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 16,
+        "question": "What is the mouse made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/148_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 18,
+        "question": "What is the pencil made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/149_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the seat cushion made of?",
+        "answer": [
+            "fabric"
+        ],
+        "image": [
+            "train_samples/163_chair.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the seat cushion made of?",
+        "answer": [
+            "fabric"
+        ],
+        "image": [
+            "train_samples/164_chair.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the seat cushion made of?",
+        "answer": [
+            "fabric"
+        ],
+        "image": [
+            "train_samples/165_chair.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/120_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/121_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this chair made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/122_chair.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this chair made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/123_chair.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this chair made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/124_chair.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this chair made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/125_chair.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this pad made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/126_pad.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this pad made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/127_pad.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this screen made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/127_pad.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this pad made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/128_pad.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/129_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this holder made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/193_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this holder made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/194_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/131_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the trash can made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/136_trash.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the trash can made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/134_trash.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the trash can made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/133_trash.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the trash can made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/135_trash.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the handrail made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/137_window.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the handrail made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/138_window.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the handrail made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/139_window.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the handrail made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/140_window.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the handrail made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/150_window.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the handrail made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/151_window.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the chair made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/155_chair.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the chair made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/150_window.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the pad made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/168_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the laptop made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/168_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the laptop made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/208_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the laptop made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/174_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the pad made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/169_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the pad made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/170_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the keyboard made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/171_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the computer made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/171_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the keyboard made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/169_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the keyboard made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/170_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the keyboard made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/173_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the keyboard made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/174_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the keyboard made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/177_keyboard.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the table made of?",
+        "answer": [
+            "granite"
+        ],
+        "image": [
+            "train_samples/183_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the floor made of?",
+        "answer": [
+            "tile"
+        ],
+        "image": [
+            "train_samples/184_floor.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this made of?",
+        "answer": [
+            "sand"
+        ],
+        "image": [
+            "train_samples/195_sand.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this made of?",
+        "answer": [
+            "sand"
+        ],
+        "image": [
+            "train_samples/197_sand.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this made of?",
+        "answer": [
+            "sand"
+        ],
+        "image": [
+            "train_samples/201_sand.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this made of?",
+        "answer": [
+            "brick"
+        ],
+        "image": [
+            "train_samples/196_concrete.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this made of?",
+        "answer": [
+            "brick"
+        ],
+        "image": [
+            "train_samples/198_concrete.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this made of?",
+        "answer": [
+            "brick"
+        ],
+        "image": [
+            "train_samples/199_concrete.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this made of?",
+        "answer": [
+            "brick"
+        ],
+        "image": [
+            "train_samples/200_concrete.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the edge made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/200_concrete.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the box made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/203_box.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the box made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/204_box.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/207_screen.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/209_cup.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/230_cup.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/233_cup.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/236_cup.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/239_cup.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/234_cup.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/236_cup.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/237_cup.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/231_cup.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the floor made of?",
+        "answer": [
+            "tile"
+        ],
+        "image": [
+            "train_samples/184_floor.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the tv made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/190_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the tv made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/191_table.png"
+        ],
+        "dataset": "vqa"
+    },
+
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/8_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/9_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/13_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/14_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/15_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/16_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/18_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the robot dog made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/19_Robot_dog.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/1_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/8_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/35.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the keyboard of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/23.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the table made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/9_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the seat cushion made of?",
+        "answer": [
+            "fabric"
+        ],
+        "image": [
+            "train_samples/18.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this chair made of?",
+        "answer": [
+            "leather"
+        ],
+        "image": [
+            "train_samples/19.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the table made of?",
+        "answer": [
+            "granite"
+        ],
+        "image": [
+            "train_samples/31.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this made of?",
+        "answer": [
+            "brick"
+        ],
+        "image": [
+            "train_samples/36.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is this made of?",
+        "answer": [
+            "sand"
+        ],
+        "image": [
+            "train_samples/37.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 16,
+        "question": "What is the mouse made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/45.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 14,
+        "question": "What is the phone made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/47.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 15,
+        "question": "What is USB cable made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/53.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/51.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the cup made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/44.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 2,
+        "question": "What is the power strip made of?",
+        "answer": [
+            "metal and plastic"
+        ],
+        "image": [
+            "train_samples/17_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 2,
+        "question": "What is the pencil made of?",
+        "answer": [
+            "wood"
+        ],
+        "image": [
+            "train_samples/9_table.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 2,
+        "question": "What is the trash can made of?",
+        "answer": [
+            "metal"
+        ],
+        "image": [
+            "train_samples/48.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 2,
+        "question": "What is the box made of?",
+        "answer": [
+            "paper"
+        ],
+        "image": [
+            "train_samples/22.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 17,
+        "question": "What is the computer made of?",
+        "answer": [
+            "plastic"
+        ],
+        "image": [
+            "train_samples/21.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the seat cushion made of?",
+        "answer": [
+            "fabric"
+        ],
+        "image": [
+            "train_samples/seat1.png"
+        ],
+        "dataset": "vqa"
+    },
+    {
+        "question_id": 0,
+        "question": "What is the seat cushion made of?",
+        "answer": [
+            "fabric"
+        ],
+        "image": [
+            "train_samples/seat2.png"
+        ],
+        "dataset": "vqa"
+    }
+]

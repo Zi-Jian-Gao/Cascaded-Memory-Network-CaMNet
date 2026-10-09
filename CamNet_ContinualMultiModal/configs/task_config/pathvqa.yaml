@@ -1,0 +1,16 @@
+pathvqa_root: 'xxx/data/pvqa/images/'
+dataset: 'pathvqa'
+
+vit: 'base'
+batch_size_train: [96,32,32]
+batch_size_test: 128
+vit_grad_ckpt: False
+vit_ckpt_layer: 0
+max_epoch: 30
+
+image_size: 384
+inference: 'generate'
+
+weight_decay: 0.05
+init_lr: 0.002
+min_lr: 0

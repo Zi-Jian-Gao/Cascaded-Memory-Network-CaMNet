@@ -1,0 +1,20 @@
+vqa_path: 'datasets/pathvqa'
+task_list:
+  - name: pathvqa_Recognition
+    config: 'configs/task_config/pathvqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/pathvqa/What_train.json' , 'datasets/pathvqa/What_val.json' ,'datasets/pathvqa/What_test.json' ]
+  - name: pathvqa_Logic
+    config: 'configs/task_config/pathvqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/pathvqa/Judge_train.json' , 'datasets/pathvqa/Judge_val.json' ,'datasets/pathvqa/Judge_test.json' ]
+  - name: pathvqa_Location
+    config: 'configs/task_config/pathvqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/pathvqa/Where_train.json' , 'datasets/pathvqa/Where_val.json' ,'datasets/pathvqa/Where_test.json' ]
+
+order: fixed
+pretrained: 'xxx/checkpoint/model_base.pth'
+LM_path: 'xxx/checkpoint/Qwen2.5-3B-Instruct/'
+
+

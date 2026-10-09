@@ -1,0 +1,52 @@
+vqa_path: 'datasets/vqa'
+task_list:
+  - name: vqa_Recognition
+    config: 'configs/task_config/vqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/vqa/train_q_recognition.json' , 'datasets/vqa/val_q_recognition.json' ,'datasets/vqa/test_q_recognition.json' ]
+  - name: vqa_Type
+    config: 'configs/task_config/vqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/vqa/train_q_type.json' , 'datasets/vqa/val_q_type.json' ,'datasets/vqa/test_q_type.json' ]
+  - name: vqa_Location
+    config: 'configs/task_config/vqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/vqa/train_q_location.json' , 'datasets/vqa/val_q_location.json' ,'datasets/vqa/test_q_location.json' ]
+  - name: vqa_Material
+    config: 'configs/task_config/vqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/vqa/train_q_material.json' , 'datasets/vqa/val_q_material.json' ,'datasets/vqa/test_q_material.json' ]
+  - name: vqa_Action
+    config: 'configs/task_config/vqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/vqa/train_q_action.json' , 'datasets/vqa/val_q_action.json' ,'datasets/vqa/test_q_action.json' ]
+  - name: vqa_Count
+    config: 'configs/task_config/vqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/vqa/train_q_count.json' , 'datasets/vqa/val_q_count.json' ,'datasets/vqa/test_q_count.json' ]
+  - name: vqa_Color
+    config: 'configs/task_config/vqa.yaml'
+    trainer: 'train_vqa'
+    json_files: ['datasets/vqa/train_q_color.json' , 'datasets/vqa/val_q_color.json' ,'datasets/vqa/test_q_color.json' ]
+  - name: vqa_Embodied_Recognition
+    config: 'configs/task_config/vqa_embodied.yaml'
+    trainer: 'train_vqa_fs'
+    json_files: ['datasets/vqa/train_q_color.json' , 'datasets/vqa/test_real_recognition.json' ,'datasets/vqa/test_real_recognition.json' ]
+  - name: vqa_Embodied_Count
+    config: 'configs/task_config/vqa_embodied.yaml'
+    trainer: 'train_vqa_fs'
+    json_files: ['datasets/vqa/train_q_color.json' , 'datasets/vqa/test_real_count.json' ,'datasets/vqa/test_real_count.json' ]
+  - name: vqa_Embodied_Material
+    config: 'configs/task_config/vqa_embodied.yaml'
+    trainer: 'train_vqa_fs'
+    json_files: ['datasets/vqa/train_q_color.json' , 'datasets/vqa/test_real_material.json' ,'datasets/vqa/test_real_material.json' ]
+  - name: vqa_Embodied_State
+    config: 'configs/task_config/vqa_embodied.yaml'
+    trainer: 'train_vqa_fs'
+    json_files: ['datasets/vqa/train_q_color.json' , 'datasets/vqa/test_real_state.json' ,'datasets/vqa/test_real_state.json' ]
+
+order: fixed
+pretrained: 'xxx/checkpoint/model_base.pth'
+LM_path: 'xxx/checkpoint/Qwen2.5-3B-Instruct/'
+
+
